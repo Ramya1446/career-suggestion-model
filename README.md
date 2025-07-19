@@ -6,7 +6,7 @@ This is a Machine Learning-powered Career Recommendation System that helps users
 
 ## 📌 Features
 
-✅ Predicts careers from 50+ realistic options  
+✅ Predicts career path from  realistic options  
 ✅ Takes 5 key inputs: Interest, Logical Thinking, Communication, Leadership, Creativity  
 ✅ Simple web UI with a custom light theme  
 ✅ Easy deployment to Streamlit Cloud  
@@ -24,8 +24,8 @@ This is a Machine Learning-powered Career Recommendation System that helps users
 
 ---
 ## 🎥 Screenshot
-<img width="1430" height="763" alt="image" src="https://github.com/user-attachments/assets/ab305de0-507f-44e4-aac3-0d6a1facba77" />
-<img width="1138" height="763" alt="image" src="https://github.com/user-attachments/assets/5f1b96c8-c40a-45fc-80fe-fd98ff9d2c0b" />
+<img width="1907" height="884" alt="image" src="https://github.com/user-attachments/assets/56a9e7cc-4b99-458f-ab8b-7180dc11c542" />
 
+<img width="1904" height="888" alt="image" src="https://github.com/user-attachments/assets/f22eb1b3-ad02-46b8-ae96-dc40b1863f30" />
 
 
