@@ -23,6 +23,9 @@ This is a Machine Learning-powered Career Recommendation System that helps users
 - **Streamlit** for the web interface
 
 ---
+## 🎥 Screenshot
+<img width="1430" height="763" alt="image" src="https://github.com/user-attachments/assets/ab305de0-507f-44e4-aac3-0d6a1facba77" />
+<img width="1138" height="763" alt="image" src="https://github.com/user-attachments/assets/5f1b96c8-c40a-45fc-80fe-fd98ff9d2c0b" />
 
 
 
