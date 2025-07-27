@@ -1,0 +1,501 @@
+TechInterest,BizInterest,LogicalThinking,Creativity,Leadership,WorkPressure,Teaching,PeopleSkills,Planning,Communication,Stream,SuitableCareer
+3,5,3,3,3,3,3,1,2,2,Science,Biologist
+3,3,5,2,4,1,1,1,3,1,Science,Chemist
+2,2,4,4,1,2,5,3,4,5,Arts,Musician
+5,3,2,1,5,1,4,2,5,5,Education,Teacher
+1,2,5,3,5,2,5,1,5,4,Education,Professor
+4,1,2,2,2,2,5,2,1,5,Education,Trainer
+5,5,3,4,3,5,1,2,5,4,Commerce,Accountant
+1,1,1,2,3,4,1,4,1,3,Science,Biologist
+3,4,5,2,2,5,1,2,4,4,Commerce,Entrepreneur
+2,4,2,4,2,2,1,1,1,4,Commerce,Entrepreneur
+4,4,2,2,3,2,4,3,3,2,Science,Physicist
+2,2,3,2,5,4,1,2,1,4,Science,Biologist
+5,3,4,2,3,4,5,4,3,5,Technology,Software Developer
+5,2,4,1,4,3,1,2,3,2,Technology,AI Engineer
+3,4,3,4,3,1,4,5,4,3,Commerce,Entrepreneur
+2,4,3,2,4,2,1,5,4,3,Commerce,Financial Analyst
+2,5,3,1,3,4,4,1,5,5,Commerce,Financial Analyst
+5,2,1,5,4,1,1,5,3,1,Arts,Graphic Designer
+2,4,4,4,3,4,3,3,2,4,Commerce,Accountant
+1,2,5,5,1,1,3,5,4,5,Arts,Writer
+4,4,5,1,4,4,1,5,4,1,Technology,Software Developer
+5,3,3,1,4,4,5,4,5,2,Healthcare,Doctor
+1,1,3,2,5,2,2,3,5,3,Science,Biologist
+4,1,4,2,2,2,2,4,5,1,Technology,Software Developer
+4,2,3,4,4,4,4,2,4,1,Healthcare,Nurse
+1,2,1,4,1,3,4,5,5,2,Arts,Musician
+5,3,4,4,2,2,3,2,5,4,Technology,AI Engineer
+3,3,4,4,1,3,2,3,1,5,Arts,Writer
+2,1,5,2,2,2,5,3,5,3,Education,Professor
+5,3,4,4,3,2,1,1,3,1,Technology,AI Engineer
+1,4,1,1,1,4,5,1,2,4,Commerce,Accountant
+5,5,3,1,2,4,4,5,4,1,Healthcare,Therapist
+4,4,2,2,4,5,4,2,1,4,Commerce,Financial Analyst
+4,1,1,4,3,5,2,2,4,2,Healthcare,Nurse
+2,5,2,3,1,2,5,5,1,3,Commerce,Accountant
+3,1,5,3,4,5,2,5,2,2,Science,Biologist
+1,2,4,3,3,3,1,1,4,4,Science,Chemist
+4,5,5,4,5,1,1,1,5,3,Technology,Software Developer
+3,4,2,1,3,5,5,1,3,4,Commerce,Financial Analyst
+2,1,2,2,1,4,4,2,2,3,Education,Trainer
+5,2,3,1,5,2,2,1,2,4,Science,Biologist
+3,4,5,2,4,4,5,1,2,5,Commerce,Accountant
+3,2,4,4,4,4,2,2,1,1,Science,Biologist
+4,2,3,3,1,2,4,5,4,1,Science,Physicist
+4,2,2,1,2,4,3,3,1,1,Science,Chemist
+3,4,3,2,3,3,1,4,3,5,Commerce,Entrepreneur
+5,4,2,2,1,2,4,5,2,3,Commerce,Accountant
+3,1,3,5,3,2,4,3,5,5,Arts,Graphic Designer
+5,3,2,5,1,1,2,3,4,4,Arts,Writer
+3,2,4,5,5,5,2,5,3,5,Arts,Writer
+3,1,4,4,2,5,2,5,4,5,Arts,Musician
+3,2,3,1,2,5,1,4,2,5,Science,Biologist
+3,3,4,3,1,2,5,5,2,3,Education,Trainer
+3,5,5,4,2,3,2,3,2,2,Arts,Graphic Designer
+1,4,3,5,4,2,5,4,5,2,Arts,Graphic Designer
+2,4,1,4,2,1,2,3,1,1,Arts,Graphic Designer
+1,2,2,2,5,3,3,3,4,1,Science,Physicist
+2,2,2,3,2,1,5,5,1,2,Science,Chemist
+3,5,4,3,5,1,3,4,4,1,Science,Chemist
+1,3,4,5,3,1,4,3,5,1,Arts,Writer
+2,5,1,2,2,1,3,1,4,1,Science,Biologist
+3,2,1,4,2,1,5,5,4,2,Arts,Musician
+1,1,1,3,1,5,3,2,4,1,Healthcare,Doctor
+3,4,1,5,5,5,3,2,3,1,Science,Physicist
+1,2,2,4,2,2,3,5,5,2,Arts,Writer
+5,5,5,5,1,4,2,3,4,5,Technology,Software Developer
+1,5,5,2,2,4,3,3,3,5,Commerce,Entrepreneur
+3,4,5,3,1,4,3,5,3,4,Commerce,Accountant
+3,4,1,1,5,3,3,5,2,1,Science,Biologist
+3,3,4,1,4,4,3,3,4,1,Healthcare,Doctor
+3,5,2,5,2,5,1,3,4,3,Commerce,Entrepreneur
+1,4,5,5,3,5,5,4,5,3,Commerce,Financial Analyst
+5,2,4,1,2,5,4,5,5,5,Technology,Software Developer
+5,1,2,2,1,4,2,3,5,4,Healthcare,Doctor
+5,5,1,2,5,2,3,3,3,2,Science,Chemist
+3,4,5,5,2,5,2,3,1,3,Commerce,Accountant
+2,5,5,4,1,1,4,4,4,3,Commerce,Financial Analyst
+4,1,3,3,5,5,4,3,1,1,Science,Chemist
+1,3,1,3,4,4,3,2,4,5,Healthcare,Nurse
+1,2,3,3,3,3,4,1,3,2,Science,Biologist
+4,4,3,3,2,4,5,4,1,2,Science,Physicist
+2,5,5,4,4,1,3,1,3,5,Commerce,Financial Analyst
+5,4,5,3,3,1,5,2,5,2,Technology,Data Scientist
+1,4,2,1,4,4,1,2,1,4,Commerce,Entrepreneur
+3,4,4,5,4,4,4,2,1,2,Science,Physicist
+2,1,2,5,5,4,4,3,4,4,Arts,Writer
+3,4,3,2,1,3,4,3,4,2,Science,Physicist
+5,3,2,5,5,3,2,3,2,5,Arts,Graphic Designer
+5,4,2,3,2,3,4,5,5,2,Science,Biologist
+2,5,5,5,2,2,4,2,5,3,Commerce,Financial Analyst
+3,3,2,3,4,3,3,3,5,5,Science,Chemist
+5,4,2,2,5,5,2,5,5,2,Healthcare,Doctor
+2,4,5,1,4,4,1,4,4,3,Commerce,Financial Analyst
+5,2,4,1,4,2,5,5,5,3,Technology,Data Scientist
+5,4,4,5,2,4,5,5,3,2,Technology,Data Scientist
+2,5,5,5,5,4,4,1,4,3,Commerce,Financial Analyst
+3,2,1,3,3,3,4,5,5,4,Education,Trainer
+5,3,4,3,3,5,1,3,1,4,Technology,AI Engineer
+4,1,2,1,4,5,1,5,5,4,Healthcare,Nurse
+3,5,2,4,3,3,3,1,5,2,Science,Physicist
+2,3,5,5,2,4,4,2,1,2,Science,Biologist
+4,5,2,3,4,1,4,2,4,1,Science,Chemist
+2,5,3,2,3,3,2,5,5,3,Commerce,Entrepreneur
+5,5,1,4,4,2,3,4,1,1,Arts,Writer
+2,5,2,4,5,4,2,1,2,4,Commerce,Financial Analyst
+3,4,4,3,3,4,4,2,3,5,Commerce,Financial Analyst
+2,3,2,3,5,5,2,2,4,3,Healthcare,Therapist
+5,1,3,3,4,5,4,2,4,4,Education,Trainer
+1,4,2,4,2,3,1,1,3,1,Science,Physicist
+5,2,4,3,5,2,3,5,1,2,Technology,Data Scientist
+1,2,3,4,2,1,3,1,1,1,Science,Physicist
+4,2,5,3,1,3,1,2,4,5,Technology,Software Developer
+5,2,3,5,4,1,3,1,1,3,Science,Physicist
+3,5,1,2,5,1,1,2,1,4,Commerce,Accountant
+4,1,5,1,4,3,5,3,3,5,Technology,Software Developer
+1,4,3,1,5,4,3,4,5,1,Healthcare,Nurse
+5,5,2,5,1,1,2,4,3,1,Arts,Graphic Designer
+1,1,1,5,5,5,1,4,1,3,Arts,Writer
+2,3,4,1,1,3,1,3,1,3,Science,Chemist
+2,2,3,2,2,3,4,5,2,2,Science,Chemist
+2,4,2,2,2,4,5,5,3,4,Commerce,Entrepreneur
+1,4,4,2,4,4,1,5,2,1,Science,Chemist
+5,4,2,4,5,5,3,4,1,4,Commerce,Accountant
+5,4,3,4,4,3,4,2,2,3,Commerce,Financial Analyst
+2,1,3,3,4,3,4,3,4,1,Science,Physicist
+1,4,5,2,3,4,3,2,2,3,Commerce,Financial Analyst
+1,2,4,3,4,5,2,4,4,2,Healthcare,Nurse
+2,3,2,3,3,1,1,5,5,3,Science,Physicist
+3,3,2,3,2,4,2,2,5,5,Healthcare,Therapist
+3,4,3,5,5,2,3,4,3,1,Arts,Musician
+2,5,2,2,1,3,4,1,3,5,Commerce,Financial Analyst
+3,4,2,4,5,5,2,3,5,5,Commerce,Accountant
+1,2,4,3,5,4,3,1,2,5,Science,Physicist
+1,5,4,3,3,4,1,5,5,5,Commerce,Accountant
+1,4,2,5,4,5,1,1,5,5,Commerce,Accountant
+3,3,3,4,4,3,1,4,3,1,Arts,Musician
+4,5,4,5,5,1,1,1,5,4,Technology,Data Scientist
+3,2,2,1,5,1,2,5,3,2,Science,Biologist
+3,3,2,2,5,1,5,3,2,3,Education,Teacher
+3,2,1,4,5,1,4,3,3,5,Arts,Musician
+3,1,5,4,4,4,1,4,5,5,Arts,Musician
+5,4,4,1,3,2,1,4,5,5,Technology,AI Engineer
+4,4,3,3,5,2,3,3,5,5,Commerce,Entrepreneur
+2,4,4,5,2,1,1,2,5,2,Science,Chemist
+3,3,3,4,3,2,1,2,1,2,Science,Physicist
+4,4,2,1,3,2,5,5,1,4,Commerce,Financial Analyst
+5,1,2,3,4,2,2,2,2,3,Science,Biologist
+3,5,5,1,3,4,1,1,1,3,Commerce,Accountant
+3,4,3,3,1,4,2,4,3,5,Commerce,Financial Analyst
+3,1,4,1,4,4,3,4,5,2,Healthcare,Therapist
+2,1,3,2,2,2,4,2,4,2,Science,Chemist
+5,2,1,1,3,2,2,5,5,1,Science,Biologist
+2,5,5,1,1,3,5,1,3,4,Commerce,Financial Analyst
+3,2,1,4,3,2,2,5,5,5,Arts,Musician
+4,3,3,2,4,3,3,4,2,1,Science,Biologist
+1,5,3,1,2,5,1,3,3,3,Commerce,Entrepreneur
+4,4,2,1,3,1,5,4,2,1,Science,Biologist
+4,2,2,2,5,4,4,3,4,3,Education,Professor
+2,3,1,1,3,1,4,4,1,2,Science,Chemist
+1,1,1,3,5,5,5,5,5,1,Healthcare,Therapist
+1,5,1,5,2,1,2,5,5,1,Arts,Musician
+1,1,2,2,4,5,1,4,5,3,Healthcare,Doctor
+5,3,3,4,2,1,3,1,1,3,Science,Biologist
+3,5,1,2,4,3,1,4,2,1,Science,Biologist
+5,4,1,3,5,1,1,3,4,2,Science,Physicist
+2,3,1,1,2,2,3,4,3,5,Science,Physicist
+3,5,3,5,3,2,2,2,4,2,Science,Chemist
+4,5,5,2,3,2,3,1,2,1,Technology,Software Developer
+2,4,2,3,4,3,3,1,1,5,Commerce,Accountant
+5,5,3,3,5,1,3,1,1,1,Science,Physicist
+4,4,5,3,3,2,3,5,2,3,Technology,AI Engineer
+3,5,4,3,3,5,4,5,2,2,Science,Biologist
+4,1,3,4,4,4,4,3,5,4,Arts,Graphic Designer
+5,2,5,5,3,1,5,1,2,5,Technology,AI Engineer
+1,5,4,5,1,2,1,1,3,1,Science,Biologist
+5,5,4,5,4,1,5,3,3,5,Technology,Software Developer
+1,1,4,4,1,3,5,1,1,2,Science,Biologist
+2,4,4,3,3,2,2,2,2,1,Science,Biologist
+4,5,2,3,3,4,1,5,1,4,Commerce,Financial Analyst
+3,2,4,1,5,3,5,4,3,5,Education,Trainer
+2,3,1,5,4,4,5,4,5,1,Arts,Writer
+4,4,4,2,3,4,1,1,5,5,Technology,Data Scientist
+5,3,2,3,5,2,4,1,5,1,Science,Chemist
+4,1,5,1,5,3,3,3,1,2,Technology,Data Scientist
+4,2,1,3,1,3,3,3,3,3,Science,Physicist
+2,1,2,3,4,3,4,5,5,3,Education,Trainer
+5,3,5,2,3,4,2,1,2,4,Technology,Data Scientist
+2,5,3,3,4,1,4,5,2,3,Commerce,Entrepreneur
+1,1,4,1,3,4,1,1,4,1,Healthcare,Therapist
+4,4,5,5,3,3,1,5,1,4,Technology,AI Engineer
+2,2,2,2,1,4,4,3,3,2,Science,Biologist
+5,2,3,5,1,2,5,5,3,4,Arts,Graphic Designer
+5,4,3,3,4,4,1,5,5,4,Commerce,Financial Analyst
+1,5,1,1,5,5,1,3,3,1,Science,Biologist
+1,4,3,1,4,3,5,3,3,4,Commerce,Accountant
+3,3,2,2,1,4,3,5,4,1,Healthcare,Nurse
+2,2,4,1,1,4,2,3,4,4,Healthcare,Nurse
+5,5,3,2,5,2,5,5,2,4,Commerce,Accountant
+4,2,2,3,5,2,2,4,1,5,Science,Physicist
+5,2,5,2,4,3,1,2,4,1,Technology,AI Engineer
+5,3,2,3,1,3,5,4,4,1,Science,Chemist
+3,5,1,5,5,3,4,1,3,3,Commerce,Accountant
+2,5,2,2,1,3,1,4,1,1,Science,Biologist
+3,2,1,1,4,1,4,4,1,2,Science,Chemist
+2,1,4,1,2,5,1,2,3,5,Science,Biologist
+1,5,2,2,5,3,2,5,4,2,Science,Chemist
+2,1,5,2,4,1,3,5,2,5,Science,Biologist
+2,2,3,4,4,1,1,2,2,3,Science,Physicist
+2,1,2,2,3,4,5,5,4,5,Education,Professor
+5,1,1,4,1,2,4,4,2,4,Arts,Musician
+5,4,5,4,3,4,3,1,3,4,Technology,AI Engineer
+3,5,1,5,2,5,2,3,1,2,Arts,Writer
+4,5,4,4,3,3,5,1,3,3,Technology,AI Engineer
+2,1,4,5,1,4,1,1,5,4,Healthcare,Therapist
+3,5,2,1,2,3,3,1,3,1,Science,Physicist
+2,1,4,5,4,5,4,3,4,2,Arts,Graphic Designer
+5,1,3,1,4,2,2,5,4,5,Science,Biologist
+5,5,2,4,5,3,2,2,5,1,Science,Chemist
+3,4,2,4,2,3,4,2,3,1,Science,Physicist
+5,5,1,5,4,4,4,3,5,4,Commerce,Accountant
+5,5,1,5,5,2,5,2,2,4,Commerce,Accountant
+3,4,1,4,1,5,5,2,4,2,Healthcare,Doctor
+1,1,2,4,4,3,1,4,1,1,Arts,Musician
+4,1,5,4,3,3,5,5,2,5,Technology,AI Engineer
+5,4,1,2,1,4,1,2,5,3,Commerce,Financial Analyst
+3,1,5,4,1,4,3,3,1,1,Arts,Musician
+2,2,4,2,5,4,1,5,3,2,Science,Physicist
+4,3,5,1,1,2,3,5,3,1,Technology,AI Engineer
+1,1,5,3,1,2,1,5,5,2,Science,Physicist
+4,4,2,5,2,1,3,4,2,4,Commerce,Entrepreneur
+3,1,5,2,1,3,1,4,1,3,Science,Physicist
+4,1,1,2,1,3,5,5,1,1,Science,Chemist
+4,4,3,1,4,1,4,3,1,1,Science,Physicist
+2,4,2,1,4,1,3,1,4,2,Science,Physicist
+3,4,2,1,4,2,1,2,2,2,Science,Physicist
+5,4,2,3,2,3,4,4,2,1,Science,Physicist
+3,1,2,2,3,1,4,5,5,5,Education,Trainer
+4,5,4,2,5,1,2,4,2,2,Technology,Data Scientist
+2,2,2,1,1,5,3,5,5,3,Healthcare,Nurse
+3,1,5,2,5,3,2,2,3,3,Science,Chemist
+5,5,4,3,5,1,2,2,3,3,Technology,AI Engineer
+1,4,4,3,5,2,5,4,3,5,Commerce,Financial Analyst
+1,4,5,3,4,4,1,2,2,1,Science,Physicist
+2,2,4,2,5,5,4,1,5,3,Education,Trainer
+5,2,1,5,3,4,2,3,2,2,Arts,Writer
+2,3,5,3,5,1,2,2,3,3,Science,Biologist
+4,4,3,5,5,3,2,5,5,4,Commerce,Entrepreneur
+2,2,5,2,5,2,5,3,5,2,Science,Biologist
+4,3,2,2,1,4,4,1,3,2,Science,Physicist
+4,3,2,1,2,2,1,1,4,1,Science,Biologist
+5,5,3,4,4,2,5,5,4,1,Arts,Writer
+5,5,5,3,1,3,2,2,4,3,Technology,AI Engineer
+4,1,4,2,2,4,5,1,5,4,Technology,Software Developer
+2,5,3,4,1,1,2,5,3,2,Arts,Graphic Designer
+3,3,1,3,5,5,5,5,3,4,Education,Trainer
+3,5,2,3,1,4,3,5,4,1,Healthcare,Doctor
+2,3,3,1,5,1,1,5,4,2,Science,Physicist
+1,1,4,5,2,5,5,3,2,2,Arts,Musician
+1,5,2,2,5,3,3,2,5,5,Commerce,Accountant
+2,4,1,1,2,3,5,4,2,3,Commerce,Entrepreneur
+3,1,1,2,1,3,2,1,2,2,Science,Chemist
+2,4,2,3,4,4,5,4,1,1,Science,Physicist
+3,1,1,2,1,1,5,3,2,3,Education,Professor
+5,2,5,1,3,5,3,4,5,1,Technology,Data Scientist
+4,5,4,3,2,4,2,1,4,1,Technology,AI Engineer
+1,4,4,4,3,5,5,5,2,2,Arts,Writer
+5,2,2,1,2,5,4,1,1,3,Education,Trainer
+4,4,4,5,3,2,5,3,5,4,Technology,Data Scientist
+3,2,5,2,5,4,4,5,4,1,Healthcare,Nurse
+4,5,2,4,5,2,4,2,1,2,Science,Chemist
+3,1,4,1,3,5,2,4,5,4,Healthcare,Nurse
+5,5,4,1,4,1,1,4,1,2,Technology,AI Engineer
+5,3,2,2,4,4,1,2,1,2,Science,Biologist
+1,4,4,2,5,1,2,2,3,5,Commerce,Entrepreneur
+4,5,1,4,2,4,4,1,5,3,Commerce,Accountant
+2,2,2,3,2,1,3,5,1,2,Science,Physicist
+1,1,5,3,5,2,3,1,1,4,Science,Physicist
+5,4,3,5,3,5,3,4,5,3,Commerce,Accountant
+2,2,4,4,2,1,1,5,2,4,Arts,Writer
+3,2,5,4,4,3,4,1,3,3,Education,Trainer
+4,3,1,3,1,1,1,5,4,2,Science,Chemist
+5,4,5,1,2,1,2,1,2,3,Technology,Data Scientist
+3,3,4,5,3,4,1,3,2,1,Arts,Musician
+3,3,3,2,2,1,1,4,4,5,Science,Physicist
+5,4,1,3,1,1,2,3,5,2,Science,Chemist
+4,1,3,1,3,4,4,5,2,2,Science,Chemist
+4,5,3,3,3,5,5,2,5,5,Commerce,Entrepreneur
+2,5,1,5,2,1,5,5,4,3,Commerce,Entrepreneur
+5,3,4,3,5,5,5,1,3,5,Technology,Software Developer
+1,5,5,2,4,3,5,4,5,1,Science,Chemist
+3,4,4,3,4,2,2,3,2,1,Science,Biologist
+4,5,5,4,4,3,1,3,2,1,Technology,AI Engineer
+5,5,5,4,1,5,4,5,1,4,Technology,Data Scientist
+4,5,3,2,4,2,4,5,2,2,Science,Physicist
+5,2,3,5,1,2,1,1,2,4,Science,Physicist
+2,2,5,2,5,5,5,1,5,2,Healthcare,Doctor
+5,4,2,5,4,4,5,4,3,4,Commerce,Accountant
+1,2,4,3,1,4,2,1,1,4,Science,Chemist
+3,5,2,4,1,1,2,3,5,3,Commerce,Financial Analyst
+4,1,4,1,1,3,2,4,1,1,Technology,AI Engineer
+4,2,4,2,5,1,3,3,2,3,Technology,Data Scientist
+4,5,3,1,3,5,1,1,4,1,Healthcare,Therapist
+4,3,1,1,2,3,1,1,3,5,Science,Chemist
+4,4,4,2,4,3,1,1,1,2,Technology,Software Developer
+5,4,2,5,3,4,1,1,4,1,Healthcare,Therapist
+4,4,2,2,3,4,5,2,2,2,Science,Biologist
+2,4,4,4,2,3,1,4,2,2,Arts,Musician
+2,1,3,2,1,1,5,4,4,2,Science,Biologist
+2,4,3,5,4,4,2,2,4,3,Commerce,Entrepreneur
+4,3,5,1,5,5,3,3,2,4,Technology,AI Engineer
+1,5,1,1,4,5,1,2,2,4,Commerce,Accountant
+3,5,5,5,3,1,3,2,3,1,Science,Chemist
+3,5,2,2,1,3,4,2,3,2,Science,Physicist
+5,4,3,4,4,2,3,4,5,3,Commerce,Entrepreneur
+1,1,4,5,5,1,5,5,3,3,Arts,Musician
+1,1,3,5,4,2,2,5,4,3,Arts,Writer
+5,3,4,3,3,3,4,5,2,3,Technology,Data Scientist
+1,2,5,2,1,1,2,1,1,5,Science,Chemist
+5,3,1,1,1,5,4,3,4,1,Healthcare,Therapist
+3,3,5,5,4,1,3,4,2,5,Arts,Musician
+4,2,2,5,3,5,1,5,2,2,Arts,Graphic Designer
+3,4,5,5,3,5,3,2,4,2,Healthcare,Therapist
+4,1,5,2,1,1,1,2,1,3,Technology,Software Developer
+3,3,1,4,1,1,3,3,1,5,Arts,Graphic Designer
+3,3,4,4,3,5,3,3,5,3,Arts,Musician
+2,3,2,3,4,4,3,1,4,3,Healthcare,Doctor
+1,1,3,5,2,4,4,4,5,5,Arts,Writer
+4,1,1,4,4,3,3,1,4,5,Science,Chemist
+3,3,1,5,5,1,3,1,3,3,Science,Biologist
+1,4,1,2,3,5,4,3,4,2,Healthcare,Doctor
+5,2,2,5,1,4,4,1,4,1,Healthcare,Doctor
+2,4,3,2,1,2,3,2,4,1,Science,Biologist
+2,3,1,5,5,2,1,2,4,4,Science,Chemist
+1,3,4,3,1,3,2,1,2,4,Science,Chemist
+1,2,5,5,1,2,4,5,4,4,Arts,Graphic Designer
+1,1,2,3,3,2,5,3,3,4,Education,Trainer
+1,2,3,2,2,1,1,1,5,5,Science,Physicist
+2,2,4,3,2,5,1,1,4,1,Healthcare,Doctor
+2,2,4,1,4,2,2,1,2,1,Science,Chemist
+2,3,2,3,1,5,1,1,2,5,Science,Physicist
+1,2,2,1,1,4,2,2,2,2,Science,Biologist
+1,2,3,3,4,2,4,1,5,4,Education,Teacher
+5,1,3,4,1,1,5,1,4,1,Science,Physicist
+4,5,5,4,3,3,2,3,3,3,Technology,Software Developer
+5,2,2,4,5,4,5,4,2,5,Arts,Writer
+2,4,4,4,1,5,1,5,3,3,Commerce,Financial Analyst
+4,2,1,3,5,4,1,3,2,1,Science,Biologist
+1,4,3,1,3,1,1,4,3,2,Science,Biologist
+3,5,4,2,2,1,4,2,1,2,Science,Chemist
+1,5,5,4,3,3,2,4,1,1,Arts,Writer
+1,1,3,2,5,4,3,2,4,3,Healthcare,Therapist
+1,2,1,2,5,1,5,3,5,1,Science,Chemist
+1,5,2,5,4,5,5,5,3,2,Arts,Graphic Designer
+2,1,5,4,2,4,4,5,2,4,Arts,Writer
+2,4,4,5,2,5,1,5,3,1,Arts,Writer
+3,2,1,5,4,2,3,1,2,3,Science,Biologist
+5,3,2,3,4,2,1,1,1,4,Science,Physicist
+1,4,2,3,2,2,5,4,3,4,Commerce,Accountant
+3,1,4,4,4,4,5,4,4,4,Arts,Graphic Designer
+5,4,2,5,2,4,2,2,2,1,Science,Biologist
+1,3,1,5,5,1,5,4,4,5,Arts,Musician
+3,3,1,3,5,2,4,1,1,1,Science,Physicist
+3,1,5,3,1,5,2,1,3,3,Science,Chemist
+2,4,4,2,4,5,3,5,5,2,Healthcare,Doctor
+1,3,1,2,3,3,5,1,2,4,Education,Teacher
+2,1,1,2,5,4,4,3,5,2,Healthcare,Nurse
+5,5,2,2,4,5,1,1,4,4,Commerce,Entrepreneur
+4,1,2,2,1,5,5,1,1,5,Education,Trainer
+3,2,4,4,3,2,3,5,4,3,Arts,Graphic Designer
+2,3,2,3,4,1,1,1,5,1,Science,Biologist
+4,3,1,3,5,2,5,5,5,3,Education,Professor
+3,3,5,2,3,4,5,5,3,5,Education,Professor
+1,3,3,1,2,3,4,4,3,2,Science,Physicist
+3,2,2,2,4,2,2,3,5,1,Science,Physicist
+2,4,2,1,2,5,3,5,2,5,Commerce,Accountant
+5,5,5,5,5,1,4,2,1,4,Technology,Software Developer
+1,3,5,5,4,4,4,1,2,2,Science,Physicist
+5,1,1,1,1,4,1,5,3,1,Science,Chemist
+4,1,4,4,2,1,1,3,4,5,Technology,Data Scientist
+3,3,4,5,5,2,2,1,2,2,Science,Chemist
+5,4,3,3,2,3,1,4,1,2,Science,Physicist
+4,3,2,1,4,1,2,3,3,4,Science,Chemist
+2,4,3,5,1,2,2,2,5,4,Commerce,Entrepreneur
+5,3,1,3,2,3,1,4,5,2,Science,Physicist
+3,2,3,1,5,2,1,2,2,3,Science,Physicist
+2,5,5,2,4,5,1,3,2,3,Commerce,Financial Analyst
+1,2,1,5,5,4,3,1,1,2,Science,Chemist
+2,5,4,3,4,4,3,1,1,5,Commerce,Accountant
+4,1,5,3,5,2,5,5,2,1,Technology,Data Scientist
+1,2,5,2,5,1,4,4,1,2,Science,Biologist
+3,1,3,2,1,1,2,1,4,4,Science,Biologist
+4,1,5,2,3,2,1,5,3,1,Technology,AI Engineer
+2,2,1,3,5,4,4,3,2,1,Science,Physicist
+3,4,5,3,4,4,4,2,2,3,Commerce,Accountant
+4,3,4,3,4,5,2,2,2,5,Technology,Software Developer
+2,2,4,3,5,5,2,3,5,3,Healthcare,Therapist
+2,4,1,4,4,2,4,2,4,4,Commerce,Entrepreneur
+5,4,5,4,3,2,3,2,4,4,Technology,Software Developer
+4,1,5,1,5,1,3,3,4,3,Technology,Software Developer
+3,3,2,1,3,5,2,3,3,5,Science,Chemist
+1,1,4,5,4,5,4,4,4,4,Arts,Musician
+1,5,5,1,1,3,4,4,2,5,Commerce,Financial Analyst
+2,4,3,2,2,4,2,2,3,4,Commerce,Accountant
+3,4,2,1,4,5,4,2,2,2,Science,Physicist
+4,4,5,5,2,2,1,2,2,2,Technology,AI Engineer
+2,4,4,1,3,2,4,5,5,4,Commerce,Financial Analyst
+1,4,4,2,2,5,2,5,1,5,Commerce,Accountant
+2,1,1,5,3,1,3,5,1,4,Arts,Graphic Designer
+5,4,1,1,1,3,2,3,3,5,Commerce,Entrepreneur
+1,1,5,2,5,5,4,3,4,5,Education,Trainer
+2,3,4,2,5,3,3,1,3,3,Science,Physicist
+1,1,4,2,3,4,2,2,5,1,Healthcare,Therapist
+3,5,1,5,2,3,2,5,4,2,Arts,Graphic Designer
+1,1,5,1,3,4,4,1,4,1,Healthcare,Doctor
+5,1,2,1,1,1,5,2,2,4,Education,Teacher
+3,4,1,3,4,1,2,1,2,5,Commerce,Financial Analyst
+1,1,4,1,5,2,2,5,3,5,Science,Chemist
+4,1,4,2,3,1,4,1,1,4,Technology,AI Engineer
+5,4,2,2,5,1,1,3,2,5,Commerce,Financial Analyst
+1,3,5,2,2,5,5,3,5,5,Education,Trainer
+2,3,3,2,3,1,1,5,4,1,Science,Biologist
+5,1,2,1,5,3,1,1,5,1,Science,Biologist
+4,5,5,5,1,5,3,2,5,3,Technology,Data Scientist
+1,2,4,3,2,5,3,3,1,2,Science,Biologist
+1,1,1,5,5,2,3,4,3,3,Arts,Musician
+1,2,5,5,4,2,5,5,4,4,Arts,Musician
+4,2,5,3,2,5,5,4,2,3,Technology,Data Scientist
+3,4,5,1,2,4,3,1,2,1,Science,Chemist
+5,2,3,3,4,4,4,1,2,5,Education,Professor
+5,4,1,3,1,1,3,3,5,5,Commerce,Entrepreneur
+2,3,3,3,4,2,4,2,4,5,Education,Teacher
+1,5,2,4,5,5,1,5,1,4,Commerce,Entrepreneur
+4,4,1,2,1,1,1,5,3,5,Commerce,Entrepreneur
+4,5,4,1,4,5,3,1,5,1,Technology,Data Scientist
+4,3,2,4,5,1,2,3,5,4,Arts,Writer
+3,3,1,3,3,4,4,3,3,3,Education,Teacher
+4,3,5,1,1,2,2,2,2,5,Technology,Data Scientist
+1,4,4,2,4,5,3,2,5,1,Healthcare,Nurse
+4,2,5,5,5,3,1,4,4,1,Technology,AI Engineer
+5,3,5,4,4,5,3,2,5,3,Technology,Software Developer
+4,1,2,3,3,1,4,4,4,3,Education,Trainer
+2,3,3,4,3,2,3,4,4,1,Arts,Graphic Designer
+3,2,5,2,2,5,5,3,1,1,Science,Chemist
+3,1,1,2,4,5,1,1,2,2,Science,Chemist
+5,2,4,4,2,5,2,5,2,1,Technology,Software Developer
+2,2,4,4,2,3,5,3,2,1,Arts,Writer
+4,3,1,5,4,4,5,3,1,3,Arts,Musician
+2,2,3,5,1,5,5,5,5,3,Arts,Graphic Designer
+4,5,5,3,4,3,2,1,1,3,Technology,Software Developer
+4,4,2,4,3,5,2,3,2,3,Commerce,Accountant
+5,1,1,2,4,4,3,3,3,5,Science,Physicist
+2,4,4,4,1,3,1,5,5,1,Arts,Graphic Designer
+3,2,5,1,2,2,5,3,4,4,Education,Trainer
+2,2,2,5,5,3,2,3,5,2,Arts,Musician
+2,4,4,5,1,1,1,2,1,5,Commerce,Entrepreneur
+1,2,4,5,2,4,2,1,4,2,Healthcare,Doctor
+5,2,3,1,5,3,1,2,2,2,Science,Physicist
+5,5,5,2,1,5,4,1,4,4,Technology,Data Scientist
+1,1,4,5,1,4,4,4,3,2,Arts,Writer
+4,5,3,5,2,2,1,4,5,3,Commerce,Financial Analyst
+1,1,3,1,2,5,5,2,1,1,Science,Chemist
+5,4,4,1,1,4,4,5,5,5,Technology,Data Scientist
+3,2,2,1,1,1,4,5,3,1,Science,Chemist
+4,2,3,3,5,5,1,4,1,1,Science,Chemist
+4,5,5,5,3,5,2,3,3,3,Technology,Data Scientist
+5,5,1,4,1,3,1,2,3,3,Commerce,Entrepreneur
+4,1,5,5,4,3,3,1,4,1,Technology,Software Developer
+3,1,5,3,5,2,2,2,3,1,Science,Biologist
+3,5,3,3,1,2,2,4,4,4,Commerce,Accountant
+4,4,4,5,3,5,4,1,5,5,Technology,Software Developer
+4,1,1,2,4,4,5,4,3,4,Education,Trainer
+5,1,1,5,3,4,5,5,1,1,Arts,Musician
+1,2,3,1,3,3,5,1,3,5,Education,Teacher
+2,5,5,2,2,3,3,2,2,1,Science,Physicist
+3,5,5,2,5,3,2,5,4,4,Commerce,Financial Analyst
+1,1,1,3,4,2,5,5,1,1,Science,Physicist
+2,4,3,4,4,4,4,1,4,3,Commerce,Accountant
+4,4,1,2,5,3,5,1,1,1,Science,Biologist
+3,3,4,5,4,5,2,5,5,3,Arts,Musician
+2,1,1,5,1,1,5,4,1,3,Arts,Musician
+5,5,2,4,3,2,3,5,1,1,Arts,Musician
+1,3,4,1,5,1,1,3,1,1,Science,Physicist
+3,4,5,3,2,5,3,4,5,3,Commerce,Entrepreneur
+3,3,5,4,4,5,5,3,4,2,Arts,Musician
+4,1,1,4,3,2,5,1,4,4,Education,Teacher
+3,3,1,2,3,5,1,3,3,5,Science,Chemist
+2,2,4,2,1,1,5,1,5,5,Education,Professor
+2,1,3,5,1,4,4,4,4,1,Arts,Writer
+2,5,3,2,4,5,5,2,2,2,Science,Biologist
+3,1,4,2,3,2,3,4,5,4,Science,Physicist
+5,2,1,4,3,4,2,4,1,1,Arts,Graphic Designer
+4,5,3,1,4,4,1,4,5,5,Commerce,Accountant
+4,5,1,5,4,2,5,1,5,3,Commerce,Financial Analyst
+1,3,3,5,3,4,2,5,2,3,Arts,Musician
+4,1,3,4,3,4,3,2,4,3,Healthcare,Therapist
+4,2,3,2,5,2,3,1,4,3,Science,Physicist
+2,4,3,2,1,5,3,4,4,5,Commerce,Accountant
+5,3,3,3,5,3,3,3,1,2,Science,Chemist
+5,5,1,1,1,5,2,4,3,4,Commerce,Financial Analyst
+1,2,1,4,5,1,4,4,5,3,Arts,Graphic Designer

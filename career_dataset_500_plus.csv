@@ -1,0 +1,501 @@
+TechInterest,BizInterest,LogicalThinking,Creativity,Leadership,WorkPressure,Teaching,PeopleSkills,Planning,Communication,Stream,SuitableCareer
+2,2,2,1,5,4,1,5,2,1,Science,Physicist
+2,3,3,5,5,4,1,1,5,3,Science,Chemist
+4,1,1,3,5,3,3,5,5,2,Commerce,Auditor
+2,2,1,3,2,2,3,3,2,2,Commerce,Auditor
+3,4,4,1,5,4,3,1,1,3,Arts,Sociologist
+5,1,2,5,3,2,3,1,2,1,Arts,Psychologist
+5,2,1,3,1,3,5,2,4,2,Engineering,Mechanical Engineer
+5,4,5,5,3,2,4,3,2,2,Engineering,Software Engineer
+5,5,5,3,2,5,3,3,4,2,Medicine,Dentist
+2,3,3,4,1,2,3,2,5,4,Medicine,Doctor
+3,1,5,1,1,3,4,3,1,5,Law,Legal Advisor
+3,5,5,4,3,4,2,5,3,3,Law,Lawyer
+3,5,1,5,2,4,1,4,5,2,Education,Academic Counselor
+4,3,5,4,2,5,5,2,2,5,Education,Teacher
+4,3,2,3,5,5,5,2,2,4,Management,Project Manager
+3,2,3,2,3,1,2,5,1,5,Management,Operations Manager
+5,4,4,3,4,4,5,1,3,1,Design,Fashion Designer
+1,3,4,3,3,2,5,5,3,1,Design,Graphic Designer
+1,5,4,3,4,1,5,4,4,5,Media,Editor
+4,2,2,4,3,2,4,2,2,3,Media,News Anchor
+1,1,5,1,1,2,1,1,1,2,Performing Arts,Musician
+1,4,5,1,5,3,2,4,3,5,Performing Arts,Musician
+2,5,5,3,3,1,4,5,5,3,Fine Arts,Sculptor
+5,1,4,3,1,4,5,4,3,1,Fine Arts,Sculptor
+5,2,1,5,5,2,1,5,3,3,IT,Cybersecurity Specialist
+1,4,1,3,2,2,1,3,3,3,IT,Cloud Architect
+2,5,3,1,1,4,1,5,2,1,Agriculture,Agricultural Scientist
+5,2,2,4,2,3,5,5,4,5,Agriculture,Agricultural Scientist
+1,5,4,4,4,2,1,1,2,3,Hospitality,Chef
+3,5,1,4,4,5,1,3,1,1,Hospitality,Event Planner
+5,1,4,5,3,4,5,2,4,5,Defense,Navy Officer
+4,4,2,4,1,3,2,5,5,4,Defense,Army Officer
+4,5,5,4,3,4,5,3,4,4,Sports,Athlete
+1,2,5,5,3,4,3,5,3,3,Sports,Coach
+4,2,5,3,4,2,5,3,3,5,Public Services,IPS Officer
+1,2,5,1,3,4,3,4,2,5,Public Services,Forest Officer
+3,1,3,1,2,2,2,5,3,1,Entrepreneurship,Business Consultant
+2,1,4,5,1,2,1,4,1,1,Entrepreneurship,Startup Founder
+2,5,5,3,4,5,3,2,5,1,Social Work,Community Organizer
+1,5,1,1,4,5,5,5,1,2,Social Work,Community Organizer
+2,1,2,2,2,1,4,4,3,4,Science,Biologist
+1,1,1,1,4,1,5,1,4,4,Science,Biologist
+2,1,4,5,4,4,4,4,4,5,Commerce,Auditor
+4,5,4,5,1,1,4,5,4,4,Commerce,Banker
+4,2,1,1,2,2,4,1,5,4,Arts,Sociologist
+4,5,5,2,5,4,2,2,4,4,Arts,Historian
+5,3,3,4,2,2,1,1,5,5,Engineering,Mechanical Engineer
+5,2,2,2,3,3,4,1,4,3,Engineering,Civil Engineer
+3,5,5,2,2,1,2,1,5,4,Medicine,Dentist
+4,3,3,5,4,3,1,1,3,1,Medicine,Doctor
+2,1,3,4,4,3,5,1,1,5,Law,Judge
+5,3,3,3,3,1,1,4,3,2,Law,Legal Advisor
+3,4,5,5,3,4,1,1,5,5,Education,Professor
+1,3,3,5,5,2,4,5,4,5,Education,Academic Counselor
+2,1,3,5,4,1,3,1,4,2,Management,HR Manager
+2,3,3,2,3,1,3,1,4,1,Management,Operations Manager
+4,3,5,1,1,4,1,3,4,1,Design,Interior Designer
+4,2,4,3,2,2,2,2,2,3,Design,Graphic Designer
+1,2,1,3,2,1,2,2,1,5,Media,Journalist
+5,3,2,3,1,2,5,2,4,2,Media,Editor
+4,1,5,1,5,4,1,2,3,3,Performing Arts,Dancer
+5,5,5,5,2,3,4,1,5,4,Performing Arts,Dancer
+4,5,3,2,3,2,2,5,1,4,Fine Arts,Illustrator
+4,3,2,4,5,3,2,2,3,5,Fine Arts,Painter
+1,5,1,2,3,4,3,3,3,4,IT,Data Analyst
+2,1,2,1,3,5,1,4,4,2,IT,Cybersecurity Specialist
+1,2,4,1,5,4,2,4,4,3,Agriculture,Agronomist
+1,3,4,4,2,5,3,2,4,3,Agriculture,Agricultural Scientist
+4,2,3,1,5,5,1,3,1,4,Hospitality,Hotel Manager
+3,1,2,1,4,4,1,4,4,5,Hospitality,Event Planner
+3,3,2,2,4,3,3,4,3,3,Defense,Navy Officer
+3,3,2,3,4,5,5,3,5,5,Defense,Army Officer
+2,2,4,2,4,2,3,1,3,5,Sports,Athlete
+2,2,2,1,1,4,1,4,3,1,Sports,Athlete
+5,1,3,2,5,4,5,1,1,5,Public Services,Forest Officer
+4,4,3,1,4,3,3,5,2,5,Public Services,IAS Officer
+1,5,1,3,3,1,5,4,2,5,Entrepreneurship,Startup Founder
+1,2,1,1,4,3,2,2,2,5,Entrepreneurship,Startup Founder
+4,4,3,2,1,4,5,2,4,4,Social Work,Community Organizer
+2,3,4,2,1,1,5,4,3,4,Social Work,Community Organizer
+3,5,1,2,5,2,1,3,5,1,Science,Astronomer
+5,3,5,5,3,1,1,2,1,3,Science,Biologist
+4,4,4,1,4,2,2,5,4,2,Commerce,Stock Broker
+5,4,1,2,2,5,5,2,4,3,Commerce,Banker
+1,2,5,2,2,3,4,2,4,5,Arts,Philosopher
+3,2,1,2,2,2,4,4,3,1,Arts,Psychologist
+4,3,5,2,5,1,2,4,5,4,Engineering,Software Engineer
+2,2,3,2,5,3,3,1,2,5,Engineering,Software Engineer
+4,5,4,5,4,5,5,1,5,3,Medicine,Surgeon
+1,4,4,2,3,5,2,5,1,1,Medicine,Pharmacist
+2,2,5,5,3,3,1,3,4,2,Law,Legal Advisor
+3,4,4,1,3,1,2,2,5,3,Law,Judge
+1,1,1,3,2,2,3,4,4,3,Education,Professor
+3,2,4,2,5,2,4,5,1,2,Education,Teacher
+3,3,3,3,5,5,5,5,3,4,Management,HR Manager
+1,1,1,3,3,1,5,5,2,3,Management,HR Manager
+3,3,1,1,5,5,3,5,5,4,Design,Graphic Designer
+2,5,4,3,5,4,3,2,3,4,Design,Fashion Designer
+5,5,5,1,4,1,4,1,3,2,Media,Editor
+2,2,2,2,3,2,1,5,1,4,Media,Journalist
+3,4,5,2,3,3,3,4,2,5,Performing Arts,Musician
+5,3,3,4,5,1,2,2,1,5,Performing Arts,Actor
+5,2,4,1,2,4,5,5,5,4,Fine Arts,Sculptor
+4,3,1,2,3,5,1,5,4,2,Fine Arts,Sculptor
+4,5,1,3,2,4,4,3,3,2,IT,Data Analyst
+4,1,3,2,4,5,4,4,1,4,IT,Data Analyst
+3,4,1,3,4,1,4,1,2,1,Agriculture,Horticulturist
+5,5,2,2,2,4,2,5,5,2,Agriculture,Agronomist
+4,4,1,5,3,4,4,2,5,1,Hospitality,Hotel Manager
+3,3,2,4,2,3,1,4,1,3,Hospitality,Event Planner
+1,3,2,4,3,1,1,5,4,5,Defense,Army Officer
+5,3,2,3,4,2,1,2,5,3,Defense,Air Force Pilot
+5,4,2,5,2,5,4,3,2,4,Sports,Coach
+2,2,5,4,2,5,3,3,1,3,Sports,Sports Analyst
+3,5,2,3,2,3,4,3,1,4,Public Services,IAS Officer
+3,2,2,4,1,3,2,1,5,1,Public Services,IPS Officer
+5,1,2,3,1,1,2,3,2,3,Entrepreneurship,Startup Founder
+2,5,1,2,5,3,1,4,5,1,Entrepreneurship,Business Consultant
+5,2,1,2,4,5,5,5,4,3,Social Work,NGO Worker
+4,5,2,3,5,2,1,2,2,4,Social Work,NGO Worker
+2,1,2,5,1,3,5,1,2,5,Science,Physicist
+2,4,5,2,3,2,3,3,4,4,Science,Astronomer
+4,2,3,1,5,4,2,5,1,5,Commerce,Banker
+2,5,1,4,2,1,5,2,3,1,Commerce,Banker
+1,2,2,2,1,3,3,2,5,5,Arts,Historian
+5,1,5,4,1,2,5,4,2,3,Arts,Philosopher
+4,3,3,1,5,4,5,4,2,3,Engineering,Civil Engineer
+5,4,2,2,5,3,3,3,3,5,Engineering,Mechanical Engineer
+4,2,5,4,3,5,1,2,3,1,Medicine,Doctor
+4,3,3,5,3,1,3,5,4,4,Medicine,Dentist
+5,2,2,3,5,1,5,2,4,3,Law,Judge
+3,2,2,1,1,3,3,2,2,5,Law,Legal Advisor
+5,4,1,5,3,5,1,4,5,3,Education,Teacher
+5,5,3,1,3,5,1,2,2,1,Education,Professor
+2,2,1,4,2,2,4,1,2,4,Management,Operations Manager
+1,4,1,2,4,3,1,4,5,1,Management,Operations Manager
+3,4,4,5,1,3,2,2,3,2,Design,Fashion Designer
+5,1,5,5,4,3,4,2,4,3,Design,Interior Designer
+3,2,3,2,2,5,5,3,3,1,Media,News Anchor
+2,3,1,5,1,4,3,2,5,5,Media,Editor
+1,2,1,5,3,2,2,4,1,4,Performing Arts,Actor
+1,4,5,3,5,4,2,4,2,2,Performing Arts,Actor
+5,2,5,5,3,2,4,3,4,4,Fine Arts,Sculptor
+5,5,3,2,2,4,4,1,1,3,Fine Arts,Painter
+3,4,5,4,4,3,1,2,1,4,IT,Cybersecurity Specialist
+1,2,4,4,2,4,5,4,5,3,IT,Cybersecurity Specialist
+2,4,5,3,4,4,1,4,4,4,Agriculture,Agronomist
+4,5,5,2,5,2,4,5,5,5,Agriculture,Horticulturist
+1,1,2,3,4,3,4,1,1,2,Hospitality,Event Planner
+4,5,2,2,4,3,2,3,4,1,Hospitality,Hotel Manager
+4,2,3,4,5,4,1,2,4,2,Defense,Air Force Pilot
+5,2,4,5,3,2,5,5,3,2,Defense,Army Officer
+5,5,1,2,2,1,1,5,1,3,Sports,Coach
+4,2,3,3,4,3,5,3,2,4,Sports,Sports Analyst
+3,1,3,5,1,2,3,1,5,4,Public Services,IPS Officer
+5,1,2,5,4,3,1,2,5,5,Public Services,IPS Officer
+2,1,5,4,4,3,1,2,1,4,Entrepreneurship,Startup Founder
+3,3,1,4,2,3,1,2,2,2,Entrepreneurship,Business Consultant
+1,2,2,3,2,1,5,3,2,3,Social Work,Community Organizer
+4,1,1,3,4,3,1,4,2,1,Social Work,Community Organizer
+1,4,2,3,3,5,4,1,3,3,Science,Biologist
+3,1,4,1,1,2,1,3,5,3,Science,Physicist
+5,5,1,4,3,1,1,1,2,2,Commerce,Auditor
+4,3,5,2,3,2,5,1,4,4,Commerce,Stock Broker
+5,1,5,2,1,2,1,1,3,2,Arts,Sociologist
+5,3,2,2,1,2,3,3,4,4,Arts,Psychologist
+4,2,5,1,5,2,4,5,3,2,Engineering,Mechanical Engineer
+3,4,5,4,3,1,2,4,4,5,Engineering,Civil Engineer
+2,1,2,4,2,1,2,4,4,3,Medicine,Surgeon
+3,1,4,3,5,4,5,2,4,2,Medicine,Doctor
+2,5,4,2,4,4,5,3,4,1,Law,Judge
+5,4,1,5,1,2,2,2,3,1,Law,Legal Advisor
+4,2,3,2,5,2,3,3,2,5,Education,Academic Counselor
+5,2,3,4,5,4,2,1,1,5,Education,Professor
+5,5,2,2,4,3,2,3,2,3,Management,Operations Manager
+3,2,3,4,5,4,1,4,1,5,Management,HR Manager
+3,4,4,5,2,1,1,2,3,1,Design,Graphic Designer
+5,2,4,2,4,2,2,1,3,3,Design,Fashion Designer
+1,1,4,1,5,3,2,1,4,1,Media,Editor
+3,2,5,4,5,5,3,1,2,2,Media,News Anchor
+3,4,3,3,2,3,3,1,2,1,Performing Arts,Actor
+4,5,2,2,3,4,2,2,5,3,Performing Arts,Musician
+4,4,4,4,2,1,4,4,3,1,Fine Arts,Illustrator
+1,3,3,2,3,3,4,2,5,2,Fine Arts,Painter
+4,5,2,4,5,1,3,1,4,4,IT,Cybersecurity Specialist
+5,3,4,2,1,5,4,5,4,5,IT,Data Analyst
+5,4,2,3,2,1,5,5,4,4,Agriculture,Agricultural Scientist
+1,1,2,3,5,3,1,5,3,3,Agriculture,Agronomist
+1,3,1,3,5,2,1,2,4,2,Hospitality,Hotel Manager
+1,2,3,3,3,2,2,4,2,4,Hospitality,Hotel Manager
+2,3,5,5,5,4,1,4,1,1,Defense,Air Force Pilot
+1,3,2,3,3,5,5,4,2,5,Defense,Army Officer
+4,4,3,4,5,1,2,3,1,4,Sports,Coach
+1,3,3,1,3,4,1,2,5,5,Sports,Athlete
+2,2,1,2,3,3,1,5,2,1,Public Services,IAS Officer
+2,3,1,2,5,3,5,5,4,1,Public Services,Forest Officer
+3,4,5,5,2,3,4,3,5,4,Entrepreneurship,Startup Founder
+3,3,5,2,1,4,2,5,5,4,Entrepreneurship,Business Consultant
+3,5,5,2,5,3,2,1,4,4,Social Work,Community Organizer
+1,3,1,4,1,5,3,3,1,5,Social Work,Community Organizer
+3,3,4,1,5,4,3,1,5,1,Science,Biologist
+3,3,5,3,4,5,1,2,3,5,Science,Chemist
+3,2,1,3,3,2,2,3,3,1,Commerce,Banker
+2,2,2,4,1,5,4,1,3,2,Commerce,Accountant
+3,2,2,4,5,1,3,1,1,5,Arts,Philosopher
+1,3,5,4,1,1,4,2,4,4,Arts,Historian
+1,4,1,3,4,1,1,3,4,1,Engineering,Software Engineer
+3,5,5,5,5,1,2,2,2,3,Engineering,Mechanical Engineer
+2,5,1,5,3,4,4,1,5,3,Medicine,Pharmacist
+2,1,4,3,2,4,3,5,5,4,Medicine,Pharmacist
+3,3,5,4,1,4,3,3,1,5,Law,Legal Advisor
+4,5,4,5,5,5,2,4,3,4,Law,Judge
+1,3,3,1,4,1,3,1,3,4,Education,Academic Counselor
+2,4,3,1,5,5,4,2,3,3,Education,Teacher
+1,5,1,5,2,5,2,5,4,5,Management,HR Manager
+4,4,2,4,1,5,3,4,1,2,Management,Operations Manager
+5,2,5,5,5,3,2,5,4,5,Design,Fashion Designer
+5,5,1,3,5,4,2,4,5,4,Design,Graphic Designer
+3,2,4,1,1,4,5,3,3,2,Media,Editor
+3,4,2,2,4,2,2,1,1,1,Media,News Anchor
+3,1,2,4,2,2,3,1,3,2,Performing Arts,Dancer
+1,2,4,3,1,4,2,5,1,3,Performing Arts,Musician
+4,3,5,3,4,2,4,1,5,3,Fine Arts,Painter
+1,4,2,4,5,1,2,1,4,5,Fine Arts,Illustrator
+1,3,2,1,3,5,5,2,1,2,IT,Cybersecurity Specialist
+2,3,4,5,2,2,2,5,4,2,IT,Cybersecurity Specialist
+5,3,3,5,4,1,5,2,5,1,Agriculture,Horticulturist
+4,5,4,1,2,3,2,2,1,3,Agriculture,Agricultural Scientist
+3,2,5,5,3,5,5,1,3,5,Hospitality,Event Planner
+4,3,3,5,2,1,1,4,5,2,Hospitality,Event Planner
+1,4,2,3,4,4,3,2,3,1,Defense,Air Force Pilot
+4,3,1,2,1,1,1,1,4,4,Defense,Navy Officer
+4,1,5,2,3,5,5,5,4,5,Sports,Sports Analyst
+3,2,1,4,2,3,2,3,4,1,Sports,Coach
+3,4,5,2,3,4,1,3,3,5,Public Services,IPS Officer
+5,1,5,5,5,5,4,5,5,3,Public Services,IPS Officer
+3,3,4,5,1,3,3,3,4,4,Entrepreneurship,Startup Founder
+5,5,2,3,5,5,2,5,4,2,Entrepreneurship,Startup Founder
+3,5,3,3,2,3,1,5,1,2,Social Work,NGO Worker
+1,3,4,5,1,3,5,3,2,1,Social Work,Community Organizer
+4,5,1,4,2,3,1,5,5,3,Science,Astronomer
+3,5,4,4,3,2,5,3,3,4,Science,Chemist
+1,1,4,1,5,2,4,2,4,4,Commerce,Stock Broker
+2,5,1,1,3,4,4,3,4,5,Commerce,Stock Broker
+3,3,1,3,4,4,2,3,4,5,Arts,Historian
+1,3,5,2,3,5,4,2,3,1,Arts,Philosopher
+3,3,4,2,5,1,1,5,1,2,Engineering,Civil Engineer
+5,2,4,1,1,1,3,1,2,5,Engineering,Software Engineer
+1,2,5,5,5,1,4,4,2,1,Medicine,Surgeon
+4,1,3,3,5,4,3,5,2,5,Medicine,Surgeon
+5,2,3,4,1,4,4,3,5,3,Law,Lawyer
+4,4,2,1,2,5,1,5,5,3,Law,Judge
+5,2,4,4,5,3,3,3,5,2,Education,Teacher
+1,1,1,2,4,1,3,1,5,3,Education,Professor
+3,4,2,1,1,2,3,2,2,2,Management,HR Manager
+2,4,2,2,5,5,1,5,1,1,Management,Project Manager
+4,3,3,2,5,2,2,4,1,5,Design,Interior Designer
+3,5,1,1,5,3,3,3,4,2,Design,Graphic Designer
+3,1,3,2,1,5,3,3,1,5,Media,News Anchor
+4,2,1,2,5,1,3,1,2,3,Media,News Anchor
+2,3,4,2,4,1,3,4,2,3,Performing Arts,Musician
+4,1,2,3,2,1,1,5,1,1,Performing Arts,Actor
+5,3,1,5,5,3,3,5,4,1,Fine Arts,Painter
+4,1,4,5,5,4,5,3,2,3,Fine Arts,Illustrator
+5,2,1,4,5,2,4,5,1,3,IT,Cloud Architect
+4,2,2,1,5,2,3,3,5,2,IT,Cloud Architect
+4,3,2,1,3,1,1,5,3,3,Agriculture,Agricultural Scientist
+4,2,1,5,2,2,2,4,3,4,Agriculture,Agricultural Scientist
+2,4,4,4,5,2,3,5,2,5,Hospitality,Event Planner
+3,5,2,5,2,3,5,3,4,5,Hospitality,Event Planner
+5,5,5,4,3,4,1,3,5,5,Defense,Air Force Pilot
+3,1,4,4,5,4,1,4,1,3,Defense,Army Officer
+4,3,2,1,3,2,2,5,1,4,Sports,Athlete
+4,4,2,1,2,3,2,3,3,2,Sports,Coach
+3,1,5,5,5,2,1,3,4,3,Public Services,IAS Officer
+1,5,5,5,1,1,2,2,4,4,Public Services,IPS Officer
+2,2,3,4,3,5,3,2,5,4,Entrepreneurship,Startup Founder
+3,2,3,1,4,2,3,2,1,2,Entrepreneurship,Business Consultant
+5,1,3,2,3,3,3,5,2,3,Social Work,Community Organizer
+4,1,1,2,4,3,2,2,5,5,Social Work,NGO Worker
+1,5,4,3,3,1,2,4,2,5,Science,Astronomer
+1,1,3,1,1,1,3,3,3,4,Science,Biologist
+1,1,2,1,5,3,3,5,4,4,Commerce,Auditor
+1,1,2,4,5,1,2,1,4,2,Commerce,Stock Broker
+4,4,4,4,5,5,3,1,2,5,Arts,Sociologist
+5,2,3,2,4,4,2,4,4,3,Arts,Psychologist
+4,4,2,4,4,1,5,2,5,1,Engineering,Electrical Engineer
+2,4,5,4,5,1,5,1,3,3,Engineering,Electrical Engineer
+4,2,2,2,3,3,2,2,5,4,Medicine,Surgeon
+4,1,3,3,4,3,5,3,4,5,Medicine,Surgeon
+3,4,5,1,3,2,1,5,1,3,Law,Legal Advisor
+1,3,1,4,1,5,2,5,1,3,Law,Judge
+3,5,2,5,1,3,1,1,2,2,Education,Professor
+2,5,4,5,4,1,1,2,1,3,Education,Academic Counselor
+3,2,4,1,4,5,2,4,4,2,Management,Operations Manager
+2,2,3,3,3,2,1,4,4,2,Management,Project Manager
+1,1,1,4,2,3,5,1,2,1,Design,Interior Designer
+2,2,2,2,4,5,5,4,4,2,Design,Fashion Designer
+3,3,4,3,4,4,4,2,4,1,Media,Journalist
+2,3,1,1,3,1,3,5,5,1,Media,News Anchor
+1,3,5,2,1,4,5,5,2,4,Performing Arts,Musician
+3,2,1,4,4,3,5,2,5,5,Performing Arts,Dancer
+4,1,3,1,1,1,1,2,3,2,Fine Arts,Illustrator
+1,5,1,2,2,5,3,2,4,2,Fine Arts,Sculptor
+2,1,4,1,3,3,5,4,4,2,IT,Cloud Architect
+2,5,3,3,2,3,3,1,2,2,IT,Cybersecurity Specialist
+5,5,1,4,1,2,1,2,1,3,Agriculture,Agronomist
+5,3,4,3,1,3,3,3,1,2,Agriculture,Agronomist
+5,4,3,3,4,2,3,3,3,5,Hospitality,Event Planner
+3,1,5,2,4,2,3,5,2,4,Hospitality,Event Planner
+3,5,5,4,2,1,2,2,3,4,Defense,Air Force Pilot
+2,3,1,5,5,3,3,5,4,5,Defense,Navy Officer
+3,5,2,5,2,3,4,4,5,2,Sports,Athlete
+2,3,1,1,1,2,3,5,2,2,Sports,Sports Analyst
+5,5,3,4,3,4,1,2,3,2,Public Services,IAS Officer
+4,5,3,3,4,5,5,2,4,2,Public Services,IAS Officer
+5,2,4,4,5,2,2,5,2,2,Entrepreneurship,Business Consultant
+4,5,4,1,2,2,2,1,3,2,Entrepreneurship,Business Consultant
+3,3,4,3,5,5,1,2,4,5,Social Work,Community Organizer
+1,5,3,5,5,5,4,4,5,3,Social Work,Community Organizer
+4,4,2,2,3,3,3,5,2,2,Science,Physicist
+1,1,3,3,1,5,4,1,2,2,Science,Physicist
+2,1,4,5,3,2,1,4,2,3,Commerce,Auditor
+3,1,5,4,4,1,5,1,5,5,Commerce,Stock Broker
+3,1,2,5,4,3,2,5,2,3,Arts,Historian
+5,5,4,4,4,1,2,5,3,5,Arts,Sociologist
+2,2,2,3,2,4,3,5,5,2,Engineering,Software Engineer
+4,1,2,1,5,2,3,4,1,2,Engineering,Civil Engineer
+3,5,3,3,2,1,4,3,4,2,Medicine,Dentist
+2,3,5,4,1,5,4,3,2,2,Medicine,Doctor
+1,3,2,1,3,2,2,3,2,3,Law,Judge
+1,3,4,5,3,5,1,1,4,2,Law,Legal Advisor
+2,5,1,3,4,1,5,1,2,5,Education,Teacher
+5,1,1,1,1,2,2,3,3,2,Education,Teacher
+2,3,3,4,2,5,5,4,2,4,Management,Project Manager
+3,2,2,3,4,2,2,5,1,5,Management,Operations Manager
+2,3,5,1,2,2,1,3,4,3,Design,Graphic Designer
+3,2,4,4,2,2,1,2,4,3,Design,Fashion Designer
+5,1,5,4,2,4,2,4,1,4,Media,Editor
+1,1,5,5,3,1,1,2,1,5,Media,Editor
+2,3,1,5,2,4,4,1,4,2,Performing Arts,Dancer
+2,2,4,2,5,3,3,2,2,4,Performing Arts,Dancer
+5,4,2,4,3,1,4,3,3,3,Fine Arts,Sculptor
+1,1,2,1,5,4,4,1,1,4,Fine Arts,Sculptor
+3,5,3,4,5,2,2,3,5,1,IT,Data Analyst
+3,4,1,2,3,3,5,4,3,2,IT,Cloud Architect
+2,4,1,3,1,4,4,1,4,1,Agriculture,Horticulturist
+3,4,2,4,1,5,3,3,2,3,Agriculture,Agronomist
+4,1,2,4,5,1,5,1,3,2,Hospitality,Hotel Manager
+2,1,3,1,4,5,1,3,4,2,Hospitality,Chef
+4,5,1,4,3,4,1,3,5,5,Defense,Air Force Pilot
+2,2,2,5,4,3,4,2,3,5,Defense,Army Officer
+2,1,4,3,3,4,2,3,2,5,Sports,Sports Analyst
+2,2,5,1,1,1,2,4,5,3,Sports,Sports Analyst
+5,3,2,1,4,3,2,2,3,4,Public Services,Forest Officer
+3,4,3,1,2,1,1,5,5,1,Public Services,Forest Officer
+4,4,1,3,3,3,1,5,3,5,Entrepreneurship,Startup Founder
+3,4,5,3,4,1,4,1,3,1,Entrepreneurship,Startup Founder
+1,2,5,1,4,4,3,5,4,5,Social Work,Community Organizer
+1,3,5,3,1,1,5,3,3,4,Social Work,NGO Worker
+4,1,3,4,3,4,1,3,3,2,Science,Biologist
+2,2,5,1,4,5,5,2,3,5,Science,Biologist
+5,5,5,4,3,1,4,4,1,5,Commerce,Banker
+1,1,5,4,2,3,1,2,3,5,Commerce,Banker
+1,3,3,3,3,2,5,5,5,1,Arts,Psychologist
+1,3,5,5,3,1,2,3,2,5,Arts,Psychologist
+1,2,2,4,5,4,1,1,2,3,Engineering,Mechanical Engineer
+1,4,2,3,2,2,4,3,5,1,Engineering,Mechanical Engineer
+2,4,5,3,1,2,5,1,4,3,Medicine,Pharmacist
+5,5,4,5,4,1,3,2,2,2,Medicine,Doctor
+1,2,2,2,1,5,1,2,3,3,Law,Judge
+4,4,1,1,5,3,3,5,1,4,Law,Judge
+1,5,5,4,4,5,1,1,4,1,Education,Academic Counselor
+2,3,2,3,4,3,1,4,1,1,Education,Professor
+2,1,3,5,2,3,3,5,3,5,Management,Project Manager
+1,2,1,4,3,4,3,4,5,2,Management,Operations Manager
+1,4,3,3,2,2,3,3,3,3,Design,Fashion Designer
+5,3,5,1,2,3,3,2,3,2,Design,Fashion Designer
+3,4,3,5,4,2,1,4,3,5,Media,Editor
+5,4,3,4,2,5,3,2,4,1,Media,Journalist
+5,2,5,5,5,3,1,3,1,4,Performing Arts,Dancer
+5,2,3,1,5,1,5,5,1,1,Performing Arts,Actor
+1,4,1,4,3,5,3,5,3,1,Fine Arts,Painter
+4,4,4,5,2,4,1,3,1,4,Fine Arts,Illustrator
+3,5,3,4,4,1,4,5,1,3,IT,Data Analyst
+4,1,3,1,2,1,3,2,3,1,IT,Data Analyst
+4,3,2,5,1,5,1,3,5,2,Agriculture,Horticulturist
+2,4,5,4,2,5,3,1,4,5,Agriculture,Horticulturist
+5,4,5,2,3,3,4,2,2,4,Hospitality,Hotel Manager
+3,3,3,5,4,2,5,1,4,4,Hospitality,Event Planner
+2,3,2,5,3,4,4,3,1,1,Defense,Air Force Pilot
+2,1,2,2,3,2,2,1,2,2,Defense,Army Officer
+2,1,5,3,4,3,2,3,4,4,Sports,Sports Analyst
+1,4,2,1,3,5,3,5,3,4,Sports,Sports Analyst
+1,3,2,1,1,3,2,1,1,1,Public Services,Forest Officer
+2,4,2,3,5,5,2,1,2,2,Public Services,Forest Officer
+4,1,2,2,1,5,1,2,3,4,Entrepreneurship,Startup Founder
+3,2,1,5,2,1,3,5,2,5,Entrepreneurship,Business Consultant
+1,4,4,1,1,4,5,4,4,5,Social Work,Community Organizer
+3,5,3,5,4,4,1,2,1,2,Social Work,Community Organizer
+4,4,3,4,3,4,4,1,2,2,Science,Astronomer
+5,3,5,1,1,4,5,1,4,1,Science,Biologist
+4,5,3,2,5,2,2,2,4,4,Commerce,Banker
+3,5,2,5,3,3,4,4,1,2,Commerce,Banker
+3,2,2,4,2,5,1,1,1,4,Arts,Historian
+3,3,4,2,5,1,2,1,5,1,Arts,Psychologist
+5,3,5,2,4,4,1,3,5,5,Engineering,Electrical Engineer
+3,4,2,1,2,2,5,5,3,5,Engineering,Electrical Engineer
+2,3,3,1,2,5,2,5,1,4,Medicine,Doctor
+3,5,5,4,4,1,3,1,3,3,Medicine,Pharmacist
+1,1,5,3,3,5,2,2,2,1,Law,Judge
+4,4,2,5,1,3,5,5,5,1,Law,Legal Advisor
+2,2,2,1,2,4,3,5,3,4,Education,Professor
+1,2,1,3,5,3,1,4,1,3,Education,Academic Counselor
+2,2,1,5,5,4,3,4,5,1,Management,Project Manager
+4,2,5,3,1,2,4,3,3,2,Management,HR Manager
+5,5,5,4,2,2,3,4,2,5,Design,Interior Designer
+3,2,5,1,1,1,2,2,5,2,Design,Graphic Designer
+5,3,5,3,4,4,2,2,5,3,Media,Journalist
+1,4,1,2,5,5,5,1,2,5,Media,Journalist
+2,5,4,1,2,5,5,2,2,1,Performing Arts,Dancer
+2,5,5,2,4,3,2,3,5,4,Performing Arts,Musician
+5,1,1,1,5,3,4,5,5,4,Fine Arts,Painter
+5,2,3,5,4,5,5,5,4,3,Fine Arts,Painter
+5,4,1,5,5,4,2,3,3,5,IT,Data Analyst
+3,5,5,5,1,2,1,4,2,4,IT,Cloud Architect
+1,1,2,1,3,3,5,3,4,5,Agriculture,Agronomist
+5,2,1,4,5,2,1,3,5,4,Agriculture,Agricultural Scientist
+2,3,2,4,2,3,1,5,5,5,Hospitality,Hotel Manager
+3,5,3,2,1,2,4,5,3,3,Hospitality,Hotel Manager
+5,4,2,4,1,1,2,3,2,5,Defense,Air Force Pilot
+1,4,3,4,2,5,2,4,1,4,Defense,Army Officer
+5,4,2,5,3,4,4,2,1,5,Sports,Coach
+4,3,4,3,1,1,2,4,1,1,Sports,Coach
+3,4,3,5,5,4,4,2,2,2,Public Services,IPS Officer
+4,3,1,3,1,2,3,1,3,3,Public Services,Forest Officer
+4,2,4,5,1,5,5,2,4,4,Entrepreneurship,Startup Founder
+5,2,5,4,2,3,3,3,4,3,Entrepreneurship,Business Consultant
+4,4,5,2,3,4,5,3,4,4,Social Work,NGO Worker
+3,1,1,1,5,1,5,2,4,5,Social Work,Community Organizer
+2,1,1,1,5,2,3,4,4,3,Science,Chemist
+3,4,4,5,5,2,1,1,5,1,Science,Biologist
+5,5,2,1,5,3,2,5,2,1,Commerce,Accountant
+3,4,1,3,4,5,5,4,3,4,Commerce,Accountant
+2,3,4,3,4,1,4,3,4,4,Arts,Philosopher
+1,3,2,2,5,4,1,1,4,1,Arts,Philosopher
+5,3,2,5,5,3,1,5,1,3,Engineering,Mechanical Engineer
+4,4,4,1,1,5,2,5,1,5,Engineering,Mechanical Engineer
+3,1,2,1,5,1,4,1,2,3,Medicine,Dentist
+1,5,2,1,5,3,2,4,5,4,Medicine,Doctor
+3,1,2,3,2,1,5,5,1,1,Law,Lawyer
+3,2,3,3,3,3,5,3,3,5,Law,Judge
+1,3,4,1,3,1,3,4,2,5,Education,Academic Counselor
+2,2,4,5,5,1,2,3,2,1,Education,Academic Counselor
+1,1,3,5,3,1,3,3,5,4,Management,Operations Manager
+3,1,3,1,1,4,4,5,2,4,Management,Project Manager
+2,2,5,5,1,1,3,1,3,3,Design,Fashion Designer
+2,1,2,1,3,5,5,3,5,2,Design,Fashion Designer
+5,3,3,4,4,1,2,2,2,1,Media,Journalist
+1,4,5,2,4,5,5,5,4,4,Media,Journalist
+5,4,3,3,4,1,4,1,3,3,Performing Arts,Dancer
+5,4,1,2,3,2,4,4,1,2,Performing Arts,Actor
+1,5,5,3,1,5,2,1,3,3,Fine Arts,Painter
+3,4,1,1,3,1,4,2,4,5,Fine Arts,Illustrator
+1,4,5,3,1,2,4,3,2,3,IT,Cloud Architect
+2,1,4,2,4,2,3,3,5,2,IT,Cybersecurity Specialist
+4,2,2,2,3,5,4,5,1,5,Agriculture,Agronomist
+4,5,4,1,3,4,1,3,3,1,Agriculture,Agricultural Scientist
+1,4,5,5,4,1,3,4,5,4,Hospitality,Event Planner
+1,1,1,5,4,5,1,5,3,1,Hospitality,Event Planner
+4,4,4,5,2,1,1,4,5,5,Defense,Navy Officer
+1,5,5,3,1,4,4,3,5,2,Defense,Army Officer
+3,5,4,5,5,1,3,5,3,3,Sports,Athlete
+3,4,5,3,4,3,2,1,2,1,Sports,Sports Analyst
+4,1,3,5,4,5,3,5,1,1,Public Services,Forest Officer
+4,5,1,1,1,1,3,3,3,3,Public Services,IPS Officer
+2,5,1,2,4,1,3,2,2,5,Entrepreneurship,Business Consultant
+5,3,1,3,5,5,3,5,4,4,Entrepreneurship,Startup Founder
+5,5,2,2,2,3,4,4,2,1,Social Work,Community Organizer
+4,1,5,4,5,4,3,2,3,2,Social Work,NGO Worker
+5,3,4,5,5,4,2,5,4,3,Science,Physicist
+1,5,5,2,3,3,4,2,4,5,Science,Biologist
+5,5,4,5,4,3,3,3,3,4,Commerce,Auditor
+2,2,4,2,5,3,3,5,4,3,Commerce,Stock Broker
+3,2,4,3,3,5,1,3,1,2,Arts,Psychologist
+3,2,2,3,5,5,2,3,3,4,Arts,Psychologist
+1,4,1,1,1,2,1,3,5,2,Engineering,Electrical Engineer
+2,4,5,3,1,1,5,4,4,1,Engineering,Civil Engineer
+1,5,2,2,1,2,3,1,2,1,Medicine,Doctor
+3,5,2,2,4,2,4,5,4,1,Medicine,Pharmacist
+4,4,3,1,4,1,4,5,4,3,Law,Judge
+2,2,2,4,5,1,5,4,1,4,Law,Legal Advisor
+4,5,2,2,4,4,1,5,2,5,Education,Academic Counselor
+2,5,3,1,5,4,5,3,4,3,Education,Teacher
+4,5,3,4,1,5,2,2,5,3,Management,Operations Manager
+3,1,3,5,2,5,1,4,3,1,Management,Project Manager
+1,2,2,1,1,5,2,3,5,2,Design,Interior Designer
+2,4,5,2,5,5,5,2,3,2,Design,Interior Designer
+4,5,2,1,4,1,5,1,1,1,Media,Editor
+3,1,3,1,4,3,4,3,3,2,Media,Journalist

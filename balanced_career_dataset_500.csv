@@ -1,0 +1,501 @@
+TechInterest,BizInterest,LogicalThinking,Creativity,Leadership,WorkPressure,Teaching,PeopleSkills,Planning,Communication,Stream,SuitableCareer
+7,1,10,6,6,9,7,4,5,5,Engineering,Software Engineer
+8,3,7,4,5,8,7,9,10,10,Engineering,Mechanical Engineer
+10,1,9,4,5,4,8,7,9,6,Engineering,Civil Engineer
+10,4,7,5,6,4,9,4,10,4,Engineering,Electrical Engineer
+10,3,8,3,5,6,5,5,5,8,Engineering,Software Engineer
+9,4,9,4,5,10,7,10,4,10,Engineering,Mechanical Engineer
+10,3,10,6,4,10,7,8,4,8,Engineering,Civil Engineer
+9,5,9,5,3,5,9,9,4,10,Engineering,Electrical Engineer
+8,3,8,6,6,10,4,9,7,7,Engineering,Software Engineer
+8,5,8,3,6,6,4,5,6,6,Engineering,Mechanical Engineer
+10,5,8,4,6,9,5,4,6,8,Engineering,Civil Engineer
+9,3,9,6,5,8,8,7,4,4,Engineering,Electrical Engineer
+9,5,9,4,3,10,7,9,8,8,Engineering,Software Engineer
+10,1,10,5,4,4,9,7,10,4,Engineering,Mechanical Engineer
+8,4,9,5,5,4,9,8,5,5,Engineering,Civil Engineer
+9,4,7,5,5,6,5,9,5,8,Engineering,Electrical Engineer
+10,4,8,3,6,5,4,6,9,6,Engineering,Software Engineer
+10,1,7,4,5,9,9,8,7,4,Engineering,Mechanical Engineer
+8,5,7,4,3,7,7,6,10,4,Engineering,Civil Engineer
+10,5,7,3,4,5,5,10,6,4,Engineering,Electrical Engineer
+8,2,8,6,4,7,6,8,8,10,Engineering,Software Engineer
+8,1,8,3,6,9,9,10,4,8,Engineering,Mechanical Engineer
+10,5,7,5,4,6,5,10,9,8,Engineering,Civil Engineer
+10,3,7,4,5,7,7,7,10,6,Engineering,Electrical Engineer
+7,1,9,6,5,9,4,9,4,5,Engineering,Software Engineer
+9,4,7,5,6,4,8,4,6,4,Engineering,Mechanical Engineer
+10,2,9,5,3,4,8,6,10,4,Engineering,Civil Engineer
+10,5,9,5,3,7,10,10,7,10,Engineering,Electrical Engineer
+8,1,9,3,4,6,5,5,7,7,Engineering,Software Engineer
+7,2,8,6,4,5,6,8,4,10,Engineering,Mechanical Engineer
+10,2,8,3,3,5,5,5,9,8,Engineering,Civil Engineer
+10,2,10,5,5,9,4,9,6,9,Engineering,Electrical Engineer
+8,1,8,6,5,4,6,4,4,9,Engineering,Software Engineer
+8,5,7,3,5,6,10,6,7,6,Engineering,Mechanical Engineer
+8,2,8,3,4,6,6,6,8,4,Engineering,Civil Engineer
+10,2,8,3,5,5,5,8,10,8,Engineering,Electrical Engineer
+9,1,10,5,4,8,5,4,9,10,Engineering,Software Engineer
+10,1,10,3,4,7,9,6,8,8,Engineering,Mechanical Engineer
+8,4,8,3,3,6,5,7,9,8,Engineering,Civil Engineer
+7,1,10,6,4,7,8,5,8,9,Engineering,Electrical Engineer
+10,3,7,3,6,10,7,5,6,10,Engineering,Software Engineer
+7,4,9,3,4,7,9,8,4,10,Engineering,Mechanical Engineer
+7,5,7,6,6,7,10,5,6,10,Engineering,Civil Engineer
+10,5,7,4,6,7,7,6,9,7,Engineering,Electrical Engineer
+9,1,8,3,6,10,9,6,9,5,Engineering,Software Engineer
+8,5,7,6,3,9,4,10,8,4,Engineering,Mechanical Engineer
+8,1,9,4,5,5,7,8,10,6,Engineering,Civil Engineer
+10,2,8,5,6,7,8,7,5,7,Engineering,Electrical Engineer
+8,3,7,6,3,6,7,9,6,9,Engineering,Software Engineer
+8,2,7,6,6,10,5,8,7,5,Engineering,Mechanical Engineer
+10,4,10,3,6,5,8,5,10,6,Engineering,Civil Engineer
+10,3,9,5,6,4,7,8,5,10,Engineering,Electrical Engineer
+10,2,9,6,6,9,4,6,4,5,Engineering,Software Engineer
+8,4,7,4,4,8,4,6,8,9,Engineering,Mechanical Engineer
+10,3,10,6,5,4,8,7,9,9,Engineering,Civil Engineer
+8,2,10,4,6,6,10,7,5,10,Engineering,Electrical Engineer
+7,4,10,3,3,7,5,10,5,8,Engineering,Software Engineer
+9,4,10,5,3,7,5,5,9,9,Engineering,Mechanical Engineer
+9,5,10,4,6,10,10,5,4,10,Engineering,Civil Engineer
+7,5,10,4,5,8,5,7,6,7,Engineering,Electrical Engineer
+8,4,9,4,5,7,6,10,10,10,Engineering,Software Engineer
+10,3,10,5,6,7,7,10,6,10,Engineering,Mechanical Engineer
+7,3,8,5,4,9,5,9,9,10,Engineering,Civil Engineer
+9,5,8,4,3,10,10,9,8,5,Engineering,Electrical Engineer
+7,5,7,5,6,7,9,5,5,6,Engineering,Software Engineer
+9,4,10,3,6,5,10,9,4,10,Engineering,Mechanical Engineer
+7,3,7,4,4,10,4,6,7,8,Engineering,Civil Engineer
+7,3,7,5,4,4,9,7,7,4,Engineering,Electrical Engineer
+10,2,9,6,5,6,5,8,10,6,Engineering,Software Engineer
+10,5,10,4,4,4,9,6,10,6,Engineering,Mechanical Engineer
+8,2,9,6,3,8,4,8,10,10,Engineering,Civil Engineer
+8,3,10,4,5,8,9,6,7,5,Engineering,Electrical Engineer
+7,3,9,4,6,7,9,8,8,4,Engineering,Software Engineer
+7,4,9,5,4,7,4,9,9,8,Engineering,Mechanical Engineer
+10,5,8,3,6,9,8,8,8,9,Engineering,Civil Engineer
+8,3,10,6,4,4,10,8,6,5,Engineering,Electrical Engineer
+9,2,8,4,6,4,4,4,7,8,Engineering,Software Engineer
+7,5,7,3,4,7,8,8,5,9,Engineering,Mechanical Engineer
+9,5,7,5,5,10,5,10,5,5,Engineering,Civil Engineer
+7,2,9,6,5,4,10,10,10,7,Engineering,Electrical Engineer
+9,1,10,4,3,6,5,7,8,6,Engineering,Software Engineer
+8,4,8,6,6,4,10,9,9,7,Engineering,Mechanical Engineer
+7,2,9,3,6,5,6,6,10,5,Engineering,Civil Engineer
+9,4,8,5,5,7,6,5,6,4,Engineering,Electrical Engineer
+9,3,10,3,5,5,4,5,9,7,Engineering,Software Engineer
+8,1,10,3,3,8,10,5,9,7,Engineering,Mechanical Engineer
+7,5,7,6,6,7,4,8,8,8,Engineering,Civil Engineer
+8,3,9,5,5,4,4,5,8,8,Engineering,Electrical Engineer
+10,4,7,6,5,7,6,5,4,8,Engineering,Software Engineer
+8,3,10,5,6,8,9,5,10,4,Engineering,Mechanical Engineer
+9,3,8,3,5,8,10,9,7,7,Engineering,Civil Engineer
+10,4,8,6,3,5,10,7,7,5,Engineering,Electrical Engineer
+8,2,9,5,4,7,7,8,7,8,Engineering,Software Engineer
+8,4,8,3,6,4,7,5,8,7,Engineering,Mechanical Engineer
+8,3,7,3,5,7,5,4,4,10,Engineering,Civil Engineer
+8,2,7,6,3,10,6,10,4,8,Engineering,Electrical Engineer
+10,4,9,5,6,9,10,6,6,9,Engineering,Software Engineer
+9,2,8,3,4,7,6,10,7,10,Engineering,Mechanical Engineer
+9,5,10,4,6,5,6,5,7,6,Engineering,Civil Engineer
+10,5,7,4,6,9,9,9,7,10,Engineering,Electrical Engineer
+2,2,5,3,4,6,5,7,8,7,Medical,Doctor
+2,4,6,6,7,7,9,7,8,4,Medical,Nurse
+5,5,7,3,6,5,7,9,9,4,Medical,Physiotherapist
+3,5,4,4,5,7,5,4,8,5,Medical,Psychologist
+2,4,5,6,4,10,4,4,9,9,Medical,Doctor
+5,4,5,3,7,4,4,9,5,5,Medical,Nurse
+4,4,5,4,6,5,8,4,4,6,Medical,Physiotherapist
+5,3,5,5,5,6,6,7,10,7,Medical,Psychologist
+2,4,5,3,6,9,8,6,5,7,Medical,Doctor
+4,5,6,3,5,6,10,9,4,5,Medical,Nurse
+5,4,7,5,4,8,4,6,10,10,Medical,Physiotherapist
+3,2,5,3,7,7,10,10,7,8,Medical,Psychologist
+4,3,5,4,6,7,9,7,8,10,Medical,Doctor
+5,3,7,4,4,8,9,6,5,8,Medical,Nurse
+5,5,4,5,7,10,10,6,5,7,Medical,Physiotherapist
+2,5,6,3,7,4,7,8,4,6,Medical,Psychologist
+4,3,6,4,5,6,8,5,6,9,Medical,Doctor
+5,5,5,3,6,7,6,7,8,5,Medical,Nurse
+5,4,7,4,4,5,9,8,10,10,Medical,Physiotherapist
+2,3,5,3,6,10,5,4,4,8,Medical,Psychologist
+5,2,5,3,4,9,5,4,6,4,Medical,Doctor
+4,5,4,4,4,6,7,7,8,6,Medical,Nurse
+2,5,5,3,7,7,9,5,8,6,Medical,Physiotherapist
+3,5,5,4,4,8,6,7,7,10,Medical,Psychologist
+5,4,6,5,4,6,4,8,8,10,Medical,Doctor
+5,2,7,6,5,8,4,9,10,5,Medical,Nurse
+3,4,5,3,4,7,8,10,9,6,Medical,Physiotherapist
+5,4,7,3,5,10,10,10,4,4,Medical,Psychologist
+3,2,4,4,5,8,6,6,5,8,Medical,Doctor
+3,5,4,3,7,4,6,10,10,8,Medical,Nurse
+4,4,6,3,5,7,8,6,9,4,Medical,Physiotherapist
+2,2,6,4,6,8,10,7,8,7,Medical,Psychologist
+4,4,5,3,5,8,5,10,8,7,Medical,Doctor
+4,5,6,6,6,5,4,6,5,6,Medical,Nurse
+2,4,7,5,4,10,4,8,4,6,Medical,Physiotherapist
+3,5,7,5,4,9,10,7,5,4,Medical,Psychologist
+3,5,4,5,6,7,8,10,8,8,Medical,Doctor
+2,3,6,4,5,10,9,6,4,8,Medical,Nurse
+4,2,5,3,7,10,9,6,8,4,Medical,Physiotherapist
+4,5,4,4,5,9,6,9,4,10,Medical,Psychologist
+5,3,7,3,7,10,7,5,6,9,Medical,Doctor
+3,5,5,5,7,4,10,10,4,5,Medical,Nurse
+2,3,7,3,4,8,8,9,6,7,Medical,Physiotherapist
+3,4,6,4,6,4,9,10,4,10,Medical,Psychologist
+2,4,6,5,4,7,5,8,7,6,Medical,Doctor
+3,2,4,3,7,4,8,10,4,7,Medical,Nurse
+3,4,7,5,5,9,9,4,4,5,Medical,Physiotherapist
+2,2,6,6,6,10,10,4,6,5,Medical,Psychologist
+5,4,5,6,4,8,6,9,4,5,Medical,Doctor
+2,2,6,3,6,9,10,10,8,9,Medical,Nurse
+4,4,6,6,5,5,10,6,6,7,Medical,Physiotherapist
+3,5,4,5,6,7,4,4,10,10,Medical,Psychologist
+5,5,4,6,7,6,8,8,6,4,Medical,Doctor
+2,5,7,6,5,9,8,10,6,5,Medical,Nurse
+5,4,4,4,4,9,5,9,9,9,Medical,Physiotherapist
+5,3,5,3,7,10,10,6,4,5,Medical,Psychologist
+5,5,4,6,6,4,5,6,5,4,Medical,Doctor
+3,5,7,6,7,7,6,6,4,9,Medical,Nurse
+3,5,5,3,7,6,4,8,4,9,Medical,Physiotherapist
+2,3,7,3,4,9,8,6,4,9,Medical,Psychologist
+3,4,5,6,5,6,6,9,5,9,Medical,Doctor
+2,5,6,5,6,7,9,6,7,5,Medical,Nurse
+5,2,4,3,6,9,5,6,5,8,Medical,Physiotherapist
+3,2,4,4,6,10,8,9,8,5,Medical,Psychologist
+5,2,5,4,6,10,8,5,7,7,Medical,Doctor
+2,3,6,3,7,8,8,7,7,10,Medical,Nurse
+5,5,6,5,4,7,10,10,4,9,Medical,Physiotherapist
+3,3,7,3,7,9,5,8,5,8,Medical,Psychologist
+3,5,6,3,7,10,7,9,5,7,Medical,Doctor
+5,3,7,6,7,10,6,10,8,6,Medical,Nurse
+3,2,6,3,6,4,4,8,4,10,Medical,Physiotherapist
+5,4,5,3,7,7,4,10,8,5,Medical,Psychologist
+4,2,7,5,6,5,10,4,8,8,Medical,Doctor
+4,2,4,4,7,5,10,6,4,4,Medical,Nurse
+3,2,7,3,4,6,10,4,10,7,Medical,Physiotherapist
+5,3,7,6,4,6,6,7,10,5,Medical,Psychologist
+5,4,7,3,5,9,5,9,8,7,Medical,Doctor
+2,2,4,5,6,8,6,8,7,4,Medical,Nurse
+4,2,7,5,5,4,6,7,9,8,Medical,Physiotherapist
+3,2,5,3,5,10,10,9,6,7,Medical,Psychologist
+5,3,7,5,6,5,10,5,9,9,Medical,Doctor
+3,4,7,6,6,4,10,9,9,9,Medical,Nurse
+4,2,7,3,4,10,4,10,6,6,Medical,Physiotherapist
+5,2,6,6,6,8,9,4,10,4,Medical,Psychologist
+2,5,4,5,4,4,7,6,6,7,Medical,Doctor
+2,3,7,3,6,8,4,4,9,10,Medical,Nurse
+5,2,6,4,7,7,7,4,9,6,Medical,Physiotherapist
+3,2,7,3,4,4,5,9,6,9,Medical,Psychologist
+3,4,6,5,4,7,5,5,8,9,Medical,Doctor
+3,5,5,3,5,10,6,10,7,4,Medical,Nurse
+3,5,7,4,7,7,8,6,5,5,Medical,Physiotherapist
+3,5,4,4,4,7,8,7,7,6,Medical,Psychologist
+4,2,4,6,7,9,5,4,10,5,Medical,Doctor
+4,3,5,3,6,4,10,4,9,9,Medical,Nurse
+5,3,4,6,4,10,8,6,8,6,Medical,Physiotherapist
+3,3,7,6,4,10,6,5,4,8,Medical,Psychologist
+3,2,7,4,7,8,10,9,5,10,Medical,Doctor
+5,3,5,5,6,10,7,8,7,5,Medical,Nurse
+2,5,5,3,7,4,10,8,5,6,Medical,Physiotherapist
+2,3,4,6,6,7,9,6,10,6,Medical,Psychologist
+5,9,7,6,9,6,8,6,4,10,Business,Entrepreneur
+3,7,6,4,9,9,10,7,7,5,Business,Marketing Manager
+6,10,5,5,7,10,4,9,8,8,Business,Accountant
+6,10,6,6,6,7,8,5,5,8,Business,Financial Analyst
+6,7,5,4,10,5,4,4,8,6,Business,Entrepreneur
+3,8,7,4,6,8,9,4,8,8,Business,Marketing Manager
+3,10,7,5,7,6,10,9,7,5,Business,Accountant
+3,10,5,5,9,9,7,5,10,10,Business,Financial Analyst
+3,9,7,6,9,7,4,8,8,6,Business,Entrepreneur
+6,8,5,4,9,7,5,7,8,8,Business,Marketing Manager
+3,9,5,5,10,4,4,5,4,4,Business,Accountant
+3,9,4,5,6,4,5,5,7,7,Business,Financial Analyst
+6,10,5,5,9,9,5,5,5,10,Business,Entrepreneur
+6,10,7,7,8,8,5,5,10,6,Business,Marketing Manager
+4,10,5,5,6,9,5,5,7,5,Business,Accountant
+3,8,6,4,8,5,10,10,4,7,Business,Financial Analyst
+6,9,5,4,6,6,5,4,5,6,Business,Entrepreneur
+3,10,7,6,10,6,6,9,8,6,Business,Marketing Manager
+5,7,5,5,10,8,5,5,7,9,Business,Accountant
+4,8,4,6,9,10,6,5,10,10,Business,Financial Analyst
+3,8,6,6,10,10,6,6,6,10,Business,Entrepreneur
+4,7,7,6,10,7,7,4,5,10,Business,Marketing Manager
+5,9,7,6,6,6,9,8,4,8,Business,Accountant
+6,10,5,6,6,7,8,10,10,6,Business,Financial Analyst
+4,7,7,7,8,5,7,4,8,6,Business,Entrepreneur
+5,9,4,5,8,9,8,5,6,9,Business,Marketing Manager
+6,9,6,5,8,10,6,7,6,9,Business,Accountant
+3,8,6,5,8,5,8,9,5,7,Business,Financial Analyst
+6,10,6,6,8,5,8,4,9,7,Business,Entrepreneur
+4,9,7,6,8,9,8,8,10,5,Business,Marketing Manager
+6,7,6,5,9,7,5,8,8,7,Business,Accountant
+6,10,4,5,9,4,9,4,6,8,Business,Financial Analyst
+3,10,4,6,10,9,9,5,9,6,Business,Entrepreneur
+6,7,5,5,8,5,10,7,7,10,Business,Marketing Manager
+5,8,5,7,10,4,5,8,10,6,Business,Accountant
+6,8,5,5,7,10,7,10,10,5,Business,Financial Analyst
+3,7,7,6,6,10,8,9,10,5,Business,Entrepreneur
+3,9,7,6,8,5,6,4,5,4,Business,Marketing Manager
+6,7,4,6,6,8,9,8,6,9,Business,Accountant
+6,8,7,5,7,6,6,7,8,8,Business,Financial Analyst
+4,7,5,6,8,8,10,7,4,4,Business,Entrepreneur
+3,7,4,4,10,6,7,4,7,10,Business,Marketing Manager
+3,10,4,6,6,5,9,7,8,9,Business,Accountant
+6,8,5,6,9,9,4,4,5,10,Business,Financial Analyst
+4,7,4,4,6,7,6,4,7,9,Business,Entrepreneur
+4,9,4,7,10,8,7,4,6,5,Business,Marketing Manager
+5,8,5,5,9,7,9,10,8,9,Business,Accountant
+5,9,7,7,10,9,9,9,8,8,Business,Financial Analyst
+6,7,7,6,9,5,7,4,7,5,Business,Entrepreneur
+6,7,5,5,9,10,10,9,4,6,Business,Marketing Manager
+4,7,4,7,8,5,9,8,5,7,Business,Accountant
+6,9,4,4,6,10,10,6,4,9,Business,Financial Analyst
+5,10,6,7,10,8,4,8,10,8,Business,Entrepreneur
+4,7,5,6,8,5,4,6,4,4,Business,Marketing Manager
+3,7,5,4,8,7,6,8,5,4,Business,Accountant
+4,7,5,5,7,4,9,7,6,6,Business,Financial Analyst
+4,7,4,7,7,8,8,8,8,8,Business,Entrepreneur
+5,9,6,6,10,6,5,4,10,6,Business,Marketing Manager
+3,7,6,5,8,4,5,8,6,6,Business,Accountant
+5,7,6,5,9,8,7,5,5,4,Business,Financial Analyst
+5,9,4,5,7,8,6,10,6,8,Business,Entrepreneur
+5,9,4,4,8,5,10,9,7,4,Business,Marketing Manager
+5,9,5,7,10,9,4,7,8,9,Business,Accountant
+6,9,5,6,10,4,5,9,8,10,Business,Financial Analyst
+6,7,6,4,10,7,9,6,9,8,Business,Entrepreneur
+3,10,6,4,10,9,7,9,10,5,Business,Marketing Manager
+4,7,6,4,9,6,7,6,10,9,Business,Accountant
+6,7,7,6,6,4,8,7,7,4,Business,Financial Analyst
+6,7,6,7,9,6,5,8,7,4,Business,Entrepreneur
+3,10,4,5,7,4,6,5,4,9,Business,Marketing Manager
+6,8,4,7,8,8,10,6,4,5,Business,Accountant
+4,7,5,7,7,7,7,4,6,6,Business,Financial Analyst
+5,9,6,6,8,4,7,4,10,10,Business,Entrepreneur
+3,7,7,6,9,5,6,5,4,5,Business,Marketing Manager
+3,9,7,4,9,5,9,5,10,10,Business,Accountant
+5,8,7,4,9,8,6,5,7,4,Business,Financial Analyst
+4,10,6,7,9,4,8,10,8,8,Business,Entrepreneur
+3,8,4,7,7,5,10,4,4,8,Business,Marketing Manager
+4,8,5,5,7,10,8,5,9,9,Business,Accountant
+5,9,7,6,9,6,10,4,6,5,Business,Financial Analyst
+6,10,5,7,6,9,7,10,6,6,Business,Entrepreneur
+3,7,5,6,9,9,5,6,5,10,Business,Marketing Manager
+6,8,4,6,9,5,8,9,10,5,Business,Accountant
+6,9,6,4,9,5,9,6,7,5,Business,Financial Analyst
+3,7,4,6,7,6,9,7,7,7,Business,Entrepreneur
+3,7,6,7,7,5,8,9,9,4,Business,Marketing Manager
+4,10,7,6,6,10,4,4,10,10,Business,Accountant
+4,9,4,5,8,4,9,5,5,4,Business,Financial Analyst
+6,10,7,5,6,7,9,6,9,6,Business,Entrepreneur
+4,7,5,5,10,7,5,9,6,5,Business,Marketing Manager
+4,7,7,5,6,9,9,8,4,5,Business,Accountant
+6,8,7,7,8,9,8,7,7,8,Business,Financial Analyst
+5,8,6,6,6,8,8,6,5,4,Business,Entrepreneur
+4,9,7,6,9,4,6,4,8,8,Business,Marketing Manager
+6,7,7,4,7,5,5,9,7,7,Business,Accountant
+5,9,7,5,7,8,10,6,10,7,Business,Financial Analyst
+4,7,7,4,8,7,4,5,5,10,Business,Entrepreneur
+3,9,6,6,6,5,4,10,7,10,Business,Marketing Manager
+5,10,5,4,10,10,9,7,8,9,Business,Accountant
+6,9,4,5,7,4,5,8,6,5,Business,Financial Analyst
+6,5,5,9,4,10,5,5,5,7,Arts,Graphic Designer
+4,3,2,10,3,5,7,10,8,8,Arts,Musician
+3,6,5,10,6,7,8,9,9,7,Arts,Writer
+6,5,3,10,5,9,7,4,10,9,Arts,Dancer
+5,6,5,7,3,10,6,4,5,6,Arts,Graphic Designer
+6,3,5,7,5,8,10,9,8,9,Arts,Musician
+4,6,3,8,5,7,10,6,10,8,Arts,Writer
+4,4,2,7,3,9,4,6,9,4,Arts,Dancer
+6,5,5,9,4,10,8,4,10,6,Arts,Graphic Designer
+4,6,2,10,4,6,6,7,5,9,Arts,Musician
+3,6,3,10,5,4,4,6,6,7,Arts,Writer
+4,6,5,9,4,7,5,7,7,7,Arts,Dancer
+3,3,3,8,3,8,4,7,7,7,Arts,Graphic Designer
+6,4,3,10,6,9,8,6,9,8,Arts,Musician
+4,4,3,9,3,5,4,7,4,9,Arts,Writer
+4,3,3,7,3,5,5,8,10,8,Arts,Dancer
+6,3,2,8,4,6,7,10,6,6,Arts,Graphic Designer
+6,6,2,7,6,5,8,4,5,6,Arts,Musician
+6,5,2,9,4,9,9,10,10,5,Arts,Writer
+4,6,2,9,4,6,5,6,4,4,Arts,Dancer
+5,3,5,8,4,6,7,5,4,6,Arts,Graphic Designer
+6,4,2,10,4,10,8,9,5,5,Arts,Musician
+4,4,4,9,4,5,8,6,7,8,Arts,Writer
+6,5,5,9,4,9,10,4,7,5,Arts,Dancer
+4,3,4,10,3,10,10,7,6,5,Arts,Graphic Designer
+5,5,4,10,3,10,7,6,7,5,Arts,Musician
+4,6,3,10,5,9,7,5,7,10,Arts,Writer
+3,3,2,10,5,7,6,8,8,9,Arts,Dancer
+6,5,2,8,4,9,5,6,6,10,Arts,Graphic Designer
+5,3,5,9,5,5,10,8,7,4,Arts,Musician
+5,4,2,7,5,5,7,7,6,10,Arts,Writer
+3,6,3,8,3,9,5,9,6,5,Arts,Dancer
+3,4,3,10,4,5,9,6,9,5,Arts,Graphic Designer
+6,3,5,8,5,6,8,9,7,8,Arts,Musician
+6,6,5,10,6,8,6,5,6,9,Arts,Writer
+6,3,3,10,5,10,9,4,6,9,Arts,Dancer
+5,4,3,9,5,6,5,8,9,9,Arts,Graphic Designer
+4,3,3,9,5,10,6,10,10,10,Arts,Musician
+6,6,5,10,5,5,5,10,6,5,Arts,Writer
+3,4,4,8,5,6,7,7,5,9,Arts,Dancer
+6,4,2,10,3,10,5,5,5,9,Arts,Graphic Designer
+3,4,3,8,4,10,8,5,6,7,Arts,Musician
+3,5,3,9,4,9,6,8,7,4,Arts,Writer
+4,4,2,10,3,6,4,6,7,5,Arts,Dancer
+6,6,5,8,4,7,4,7,10,6,Arts,Graphic Designer
+3,5,3,7,6,7,9,9,10,10,Arts,Musician
+3,3,4,7,3,4,7,6,5,6,Arts,Writer
+3,5,4,8,5,7,4,6,7,8,Arts,Dancer
+3,3,5,9,4,10,7,9,6,6,Arts,Graphic Designer
+5,4,3,7,3,7,8,6,4,7,Arts,Musician
+4,6,2,9,6,10,10,8,5,8,Arts,Writer
+5,3,4,7,6,10,8,6,4,6,Arts,Dancer
+5,6,5,7,3,4,10,10,10,7,Arts,Graphic Designer
+4,3,2,9,4,6,7,10,10,10,Arts,Musician
+4,3,2,9,3,10,10,8,7,9,Arts,Writer
+4,3,3,7,6,9,10,7,7,10,Arts,Dancer
+5,3,2,7,5,6,6,7,9,7,Arts,Graphic Designer
+4,4,2,10,3,10,10,10,10,8,Arts,Musician
+3,4,2,7,5,9,7,7,7,9,Arts,Writer
+3,4,4,10,4,9,8,4,10,10,Arts,Dancer
+5,4,2,9,3,5,8,9,4,10,Arts,Graphic Designer
+5,6,3,8,3,4,10,6,7,4,Arts,Musician
+5,3,5,8,3,4,6,9,9,9,Arts,Writer
+4,5,2,8,6,9,5,10,5,5,Arts,Dancer
+5,3,5,8,3,9,8,6,4,10,Arts,Graphic Designer
+5,6,4,9,6,6,9,4,5,5,Arts,Musician
+6,5,5,7,4,5,7,7,8,9,Arts,Writer
+5,6,3,10,5,8,4,8,10,6,Arts,Dancer
+4,3,5,9,3,6,8,5,5,5,Arts,Graphic Designer
+4,5,2,7,6,8,9,10,8,8,Arts,Musician
+4,3,5,8,5,10,5,4,9,6,Arts,Writer
+6,6,4,8,5,5,6,6,6,9,Arts,Dancer
+6,6,5,10,5,7,7,6,6,7,Arts,Graphic Designer
+6,4,3,7,3,6,6,9,10,6,Arts,Musician
+4,3,4,10,6,6,5,6,9,5,Arts,Writer
+6,5,4,7,4,9,7,10,7,4,Arts,Dancer
+5,6,3,8,4,7,4,4,9,6,Arts,Graphic Designer
+3,5,3,8,5,4,4,6,8,5,Arts,Musician
+6,5,4,9,6,6,5,5,8,5,Arts,Writer
+6,4,3,7,6,7,4,9,4,9,Arts,Dancer
+4,4,4,9,5,7,4,8,6,7,Arts,Graphic Designer
+3,3,2,7,3,8,9,8,6,10,Arts,Musician
+5,6,2,9,6,9,8,5,7,8,Arts,Writer
+4,4,3,8,6,9,6,5,5,5,Arts,Dancer
+4,4,3,8,3,8,7,8,8,10,Arts,Graphic Designer
+5,5,4,10,3,7,9,6,7,9,Arts,Musician
+6,3,4,9,5,9,8,6,10,9,Arts,Writer
+3,4,4,8,4,8,5,5,9,9,Arts,Dancer
+5,4,2,7,3,9,10,6,10,4,Arts,Graphic Designer
+4,3,4,7,3,8,9,8,5,8,Arts,Musician
+3,5,2,9,4,4,6,9,9,10,Arts,Writer
+4,3,5,9,4,6,8,6,5,6,Arts,Dancer
+3,5,2,8,6,9,10,10,9,5,Arts,Graphic Designer
+6,5,3,9,3,6,4,8,6,10,Arts,Musician
+4,3,2,9,6,10,7,5,6,5,Arts,Writer
+6,4,3,8,6,8,10,8,9,10,Arts,Dancer
+4,3,2,7,3,4,8,4,6,5,Arts,Graphic Designer
+4,3,3,9,4,4,5,10,10,4,Arts,Musician
+6,5,4,8,4,6,10,8,8,6,Arts,Writer
+6,6,3,10,3,9,8,8,4,10,Arts,Dancer
+6,6,9,4,6,6,5,5,5,6,Science,Researcher
+6,6,7,7,4,9,9,6,8,8,Science,Astronomer
+7,5,9,7,5,8,5,9,5,7,Science,Chemist
+7,4,9,7,4,7,10,6,10,4,Science,Biologist
+6,4,10,5,4,10,9,10,5,6,Science,Researcher
+8,6,8,6,6,7,10,9,9,5,Science,Astronomer
+6,6,9,7,5,8,7,9,8,10,Science,Chemist
+8,5,10,7,3,4,9,5,6,9,Science,Biologist
+7,4,9,7,6,4,6,10,9,7,Science,Researcher
+6,4,7,5,4,4,7,7,4,5,Science,Astronomer
+7,6,9,4,3,6,8,9,5,7,Science,Chemist
+7,5,9,7,5,9,10,7,4,10,Science,Biologist
+7,5,10,5,5,10,9,10,4,4,Science,Researcher
+6,5,8,5,5,9,10,4,6,9,Science,Astronomer
+9,6,9,6,5,9,5,7,10,10,Science,Chemist
+7,5,10,4,6,5,10,8,6,4,Science,Biologist
+9,3,7,7,3,9,10,8,4,7,Science,Researcher
+6,3,10,6,6,4,7,4,4,5,Science,Astronomer
+7,4,10,4,3,7,10,9,4,4,Science,Chemist
+8,4,8,5,3,7,10,4,9,6,Science,Biologist
+8,3,7,7,4,7,8,7,4,8,Science,Researcher
+6,4,10,7,4,5,5,6,8,5,Science,Astronomer
+9,3,7,5,4,9,7,9,7,5,Science,Chemist
+6,5,7,7,5,10,10,4,9,6,Science,Biologist
+9,3,8,7,4,10,9,9,8,7,Science,Researcher
+6,3,7,4,6,7,7,4,4,4,Science,Astronomer
+6,6,8,5,4,9,8,7,5,6,Science,Chemist
+7,3,7,4,4,7,7,5,5,9,Science,Biologist
+8,5,8,7,4,8,4,7,6,9,Science,Researcher
+6,3,10,7,3,9,10,6,4,4,Science,Astronomer
+9,4,7,4,5,9,8,4,8,7,Science,Chemist
+6,5,7,4,5,5,10,7,5,4,Science,Biologist
+8,5,7,4,6,8,7,6,5,5,Science,Researcher
+8,4,9,4,3,7,4,7,8,8,Science,Astronomer
+9,5,10,5,6,7,4,4,6,10,Science,Chemist
+7,4,10,5,4,6,10,10,4,8,Science,Biologist
+6,5,9,7,5,10,6,9,5,6,Science,Researcher
+8,5,9,4,6,8,4,7,5,7,Science,Astronomer
+6,5,9,7,5,7,7,8,6,7,Science,Chemist
+9,6,7,5,3,7,6,7,5,10,Science,Biologist
+6,4,8,7,3,9,4,6,6,4,Science,Researcher
+7,6,10,6,5,6,7,7,6,7,Science,Astronomer
+7,6,9,7,4,4,9,7,4,8,Science,Chemist
+6,5,7,6,4,5,6,10,9,7,Science,Biologist
+7,4,7,6,5,6,9,7,5,5,Science,Researcher
+9,5,7,7,3,7,7,9,6,10,Science,Astronomer
+9,3,9,6,3,8,6,10,7,4,Science,Chemist
+8,3,8,6,4,9,10,6,9,10,Science,Biologist
+7,5,10,6,5,8,10,8,5,6,Science,Researcher
+8,3,7,4,3,10,8,5,10,4,Science,Astronomer
+6,4,8,4,3,10,10,8,5,5,Science,Chemist
+9,5,7,7,4,8,4,4,5,7,Science,Biologist
+6,5,10,4,6,9,5,6,7,9,Science,Researcher
+7,3,9,5,6,7,10,9,7,7,Science,Astronomer
+7,4,7,6,6,8,5,10,8,8,Science,Chemist
+8,6,8,6,5,4,4,7,9,9,Science,Biologist
+7,6,7,7,3,6,10,10,6,5,Science,Researcher
+9,3,7,5,5,4,4,6,5,5,Science,Astronomer
+8,6,8,6,6,6,6,9,7,4,Science,Chemist
+8,3,7,6,3,4,4,5,9,7,Science,Biologist
+8,6,10,4,5,8,5,8,6,9,Science,Researcher
+9,6,8,4,5,9,7,9,4,5,Science,Astronomer
+6,5,9,4,6,4,9,8,7,4,Science,Chemist
+8,6,8,7,5,5,4,7,5,8,Science,Biologist
+7,5,10,4,4,9,4,4,6,4,Science,Researcher
+8,3,9,6,5,10,9,6,7,9,Science,Astronomer
+6,4,7,5,3,10,4,4,4,4,Science,Chemist
+7,5,8,4,4,8,6,8,4,9,Science,Biologist
+8,5,9,4,3,4,4,10,8,10,Science,Researcher
+8,5,10,5,5,7,5,9,4,8,Science,Astronomer
+9,4,7,6,6,10,10,5,10,5,Science,Chemist
+8,5,7,5,4,7,7,6,8,7,Science,Biologist
+8,6,10,6,6,8,7,5,8,4,Science,Researcher
+8,3,9,4,4,8,9,4,4,8,Science,Astronomer
+7,6,8,6,3,9,4,8,9,5,Science,Chemist
+6,3,8,5,5,8,7,7,4,8,Science,Biologist
+8,5,10,6,5,6,6,6,10,8,Science,Researcher
+6,3,10,7,3,6,4,6,6,4,Science,Astronomer
+9,4,10,5,4,10,7,9,4,7,Science,Chemist
+8,5,8,6,4,4,5,4,5,7,Science,Biologist
+6,5,9,7,6,8,7,9,6,8,Science,Researcher
+7,6,9,7,5,10,9,7,10,4,Science,Astronomer
+9,6,7,7,4,4,4,10,4,10,Science,Chemist
+7,6,10,5,4,8,4,10,5,6,Science,Biologist
+9,4,7,7,6,5,10,10,10,5,Science,Researcher
+6,4,8,4,4,4,7,5,8,10,Science,Astronomer
+8,4,9,7,6,4,10,8,6,4,Science,Chemist
+6,6,8,5,6,6,9,9,8,6,Science,Biologist
+6,5,7,6,6,7,6,9,8,7,Science,Researcher
+9,4,10,4,5,7,7,4,5,6,Science,Astronomer
+9,6,8,5,5,8,7,7,9,4,Science,Chemist
+7,5,9,4,6,7,8,5,4,9,Science,Biologist
+9,6,8,6,3,5,4,5,6,10,Science,Researcher
+6,6,7,6,3,4,8,4,7,7,Science,Astronomer
+8,3,9,4,3,4,7,7,7,5,Science,Chemist
+6,4,8,7,6,7,10,9,5,4,Science,Biologist
+7,5,8,7,4,4,4,7,8,6,Science,Researcher
+9,4,10,6,6,7,6,9,6,8,Science,Astronomer
+9,3,10,7,3,7,5,7,6,10,Science,Chemist
+8,4,8,4,6,9,5,10,6,4,Science,Biologist

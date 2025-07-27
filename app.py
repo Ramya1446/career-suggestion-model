@@ -3,56 +3,32 @@ import pandas as pd
 import joblib
 import numpy as np
 
-# Load the model, label encoder, and scaler
-model = joblib.load("career_model.joblib")
-le_interest = joblib.load("interest_encoder.joblib")
-scaler = joblib.load("scaler.joblib")
+# Load the correctly trained balanced model
+model = joblib.load("stream_predictor.pkl")
 
-# Streamlit UI
-st.set_page_config(page_title="Career Suggestion for Rural Students", layout="centered")
-st.title("🎯 Career Suggestion Model")
-st.markdown("Get personalized career suggestions based on your **interests** and **aptitude** scores!")
+st.title("🎯 Career Stream Recommendation Quiz")
+st.markdown("Answer the questions on a scale of 0 (Not at all) to 10 (Absolutely!)")
 
-# Interest options
-interest_options = le_interest.classes_.tolist()
+questions = [
+    "How interested are you in working with technology and digital tools?",
+    "How curious are you about business, startups, or marketing?",
+    "How good are you at solving logic or math-related problems?",
+    "How creative do you feel when generating new ideas or designs?",
+    "How confident are you in taking initiative or leading a group?",
+    "How well do you perform under pressure or tight deadlines?",
+    "How much do you enjoy teaching or helping others understand new topics?",
+    "How comfortable are you in social situations or working with people?",
+    "How good are you at organizing tasks and creating plans?",
+    "How effective are your communication skills (speaking or writing)?",
+]
 
-# --- INPUT FORM ---
-with st.form("career_form"):
-    interest = st.selectbox("🧠 What subject or field interests you the most?", interest_options)
+answers = []
+for i, q in enumerate(questions):
+    ans = st.slider(q, min_value=0, max_value=10, key=i)
+    answers.append(ans)
 
-    logical = st.slider("🧩 Logical Thinking (problem-solving skills)", 1, 10, 5)
-    communication = st.slider("🗣️ Communication Skills", 1, 10, 5)
-    leadership = st.slider("👑 Leadership Skills", 1, 10, 5)
-    creativity = st.slider("🎨 Creativity Level", 1, 10, 5)
+user_input = np.array(answers).reshape(1, -1)
 
-    submit = st.form_submit_button("Find My Career 🚀")
-
-# --- PREDICTION ---
-if submit:
-    # Encode interest
-    interest_encoded = le_interest.transform([interest])[0]
-
-    # Prepare input data
-    input_df = pd.DataFrame([{
-        "Interest": interest_encoded,
-        "Logical_Thinking": logical,
-        "Communication": communication,
-        "Leadership": leadership,
-        "Creativity": creativity
-    }])
-
-    # Scale the aptitude scores
-    input_df[["Logical_Thinking", "Communication", "Leadership", "Creativity"]] = scaler.transform(
-        input_df[["Logical_Thinking", "Communication", "Leadership", "Creativity"]]
-    )
-
-    # Predict probabilities for top-3 career options
-    probabilities = model.predict_proba(input_df)[0]
-    top_3_indices = np.argsort(probabilities)[-3:][::-1]
-    top_3_careers = [model.classes_[i] for i in top_3_indices]
-    top_3_scores = [probabilities[i] * 100 for i in top_3_indices]
-
-    # Show result
-    st.success("🎓 Based on your profile, your top career suggestions are:")
-    for i in range(3):
-        st.write(f"{i+1}. **{top_3_careers[i]}** — {top_3_scores[i]:.2f}% match")
+if st.button("Suggest Career Stream"):
+    prediction = model.predict(user_input)[0]
+    st.success(f"🌟 Based on your answers, a suitable career stream is: **{prediction}**")
